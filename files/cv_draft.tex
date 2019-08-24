@@ -1,0 +1,222 @@
+\documentclass[11pt,letterpaper,sans]{moderncv}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for dense, 1 pg CV, use scale=0.89 and 10pt font
+% for standard CV, use scale=0.82 and 11pt font
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\moderncvstyle{classic}
+\moderncvcolor{red} 
+\usepackage{lipsum} 
+\usepackage{multicol}
+\usepackage{footmisc} 
+\usepackage[scale=0.82]{geometry} 
+% set scale to 0.89 MAX for dense cv, set scale to 0.82 for standard cv
+
+
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, un to adjust the width of the space allocated to your name
+
+\usepackage{xpatch}
+\xpatchcmd{\cvitem}{#3}{\small #3}{}{}
+
+\renewcommand*{\cventry}[7][.25em]{%
+  \cvitem[#1]{{\small\selectfont#2}}{%
+    {\bfseries#3}%
+    \ifthenelse{\equal{#4}{}}{}{, {\slshape#4}}%
+    \ifthenelse{\equal{#5}{}}{}{, #5}%
+    \ifthenelse{\equal{#6}{}}{}{, #6}%
+    .\strut%
+    \ifx&#7&%
+    \else{\newline{}\begin{minipage}[t]{\linewidth}\small#7\end{minipage}}\fi}}
+   
+ 
+
+%----------------------------------------------------------------------------------------
+%   NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Hollis} % Your first name
+\familyname{Akins} % Your last name
+% All information in this block is optional, comment out any lines you don't need
+%\title{Physics Student}
+\mobile{(336) 681-8118}
+\email{hollis.akins@gmail.com}
+\homepage{www.hollisakins.com}
+\extrainfo{\githubsocialsymbol~\linkedinsocialsymbol~hollisakins}
+\address{Box 3039, 1115 8th Ave}{Grinnell, IA 50112}
+
+%\photo[70pt][0.4pt]{pictures/picture} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+%\quote{"To work in a firm with a professional work driven environment where I can utilize and apply my knowledge." -- Tarun}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+
+\makecvtitle % Print the CV title
+
+%----------------------------------------------------------------------------------------
+%   EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+\section{\textit{Education}}
+
+\cventry{Aug 2018 -- Present}{Grinnell College}{Dean's Scholar}{Grinnell, IA}{}{
+\begin{itemize}
+	\item B.A. Physics, expected graduation May 2022\hspace{\fill}GPA: 4.00/4.00
+	\item Recipient of the Dean's Scholarship (\$25,000/year) and National Merit Scholarship (\$2,000/year)
+	\item Coursework: modern physics, differential equations, archaeoastronomy, linear algebra, mechanics, general relativity
+\end{itemize}
+}
+
+\cventry{Aug 2014 --\\May 2018}{The Early College at Guilford}{}{Greensboro, NC}{}{
+\begin{itemize}
+	\item Public high-school dual-enrollment program with Guilford College\hspace{\fill}GPA: 3.96/4.00
+	\item Coursework: introductory physics, computational physics, multivariable calculus, geographic information systems, experience design, observational astronomy, and studio art
+\end{itemize}
+}
+
+
+
+
+%----------------------------------------------------------------------------------------
+%   EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{\textit{Research Experience}}
+
+\cventry{May 2019 -- Present}{Undergraduate Researcher}{Grinnell College Physics Department}{Grinnell, IA}{test}{
+\begin{itemize}
+	\item Participated in summer Mentored Advanced Projects led by Dr. Charlotte Christensen %?????
+	\item Utilized high-resolution cosmological simulations to study the evolution and star formation properties of dwarf satellite galaxies
+%	\item Developed data analysis code and plots to be published in an upcoming paper
+%	\item Presented at the 235th meeting of the American Astronomical Society
+\end{itemize}
+}
+
+\cventry{May 2018 --\\Aug 2018}{Research Assistant}{Guilford College Cline Observatory}{Greensboro, NC}{}{%Developed a codebase for automatic data analysis and scripted observations to facilitate current and future student research on variable stars, stellar evolution, and more
+\begin{itemize}
+	\item Developed an automated data analysis pipeline and scripted observer system for the Cline Observatory
+	\item Documented and standardized observation  and data management procedures 
+	\item Evaluated ability of observatory facilities to observe photometric and color variation 
+\end{itemize}
+}
+ 
+\section{\textit{Work Experience}}
+
+
+\cventry{Dec 2018 -- Present}{Student Mentor}{Grinnell College Data Analysis and Social Inquiry Lab (DASIL)}{Grinnell, IA}{}{
+\begin{itemize}
+	\item Trained and instructed peers in data analysis software such as ArcGIS, Python, R, and Excel
+	\item Prepared Geographic Information Systems (GIS) data and visualizations for faculty as needed 
+	\item Cleaned and organized datasets for use in the Grinnell College course \textit{EDU-295: The School-to-Prison Pipeline}
+	\item Served as Teaching Assistant for the fall 2019 introduction to GIS course 
+\end{itemize}
+}
+
+\cventry{Feb -- May 2019}{Science Editor}{Grinnell Undergraduate Research Journal}{Grinnell, IA}{}{
+\begin{itemize}
+	\item Selected and provided feedback on science submissions for the 2019 journal publication
+	\item Utilized Open Journal Systems to organize the peer-review process for student scientific papers
+\end{itemize}
+}
+
+\cventry{Aug 2018 -- \\Dec 2018}{Staff Member}{Spencer Grill}{Grinnell, IA}{}{
+\begin{itemize}
+	\item Assisted supervisors with food and beverage preparation and customer service.
+\end{itemize}
+}
+
+\cventry{Aug 2017 --\\Dec 2017}{Teaching Assistant}{Guilford College Art Dept.}{Greensboro, NC}{}{
+\begin{itemize}
+	\item Instructed students in the introductory darkroom photography class at Guilford College
+	\item Conducted class demonstrations, mentored students individually, provided feedback on work, and maintained the cleanliness and function of the photography lab facilities
+\end{itemize}
+}
+
+\cventry{Dec 2017 --\\Apr 2018}{Barista}{Starbucks Coffee Company}{Greensboro, NC}{}{
+\begin{itemize}
+	\item Prepared food and beverages, maintained store cleanliness, and satisfied customer needs
+\end{itemize}
+}
+
+\cventry{Aug 2016 --\\Apr 2018}{Office Assistant}{Harris Teeter Supermarkets}{Greensboro, NC}{}{
+\begin{itemize}
+	\item Assisted managers in supervising front-end operations by counting and handling the cash in the store, performing daily bookkeeping tasks, working at the customer service desk, and cashiering as needed
+\end{itemize}
+}
+
+\section{\textit{Extracurricular Experience}}
+
+
+\cventry{March 2018}{Extern}{International Dark Sky Association}{Tucson, AZ}{}{
+\begin{itemize}
+	\item Shadowed and observed alumni host in staff / client meetings to gain a greater understanding of the job of the non-profit
+\end{itemize}
+}
+
+\cventry{Oct 2018 -- Present}{Co-Founder}{Grinnell College  Astronomy Group}{Grinnell, IA}{}{
+\begin{itemize}
+	\item Led meetings and group discussions on recent astronomy news and discoveries 
+	\item Organized and taught an amateur observational astronomy course through the Experiential College program 
+\end{itemize}
+}
+
+\cventry{Mar 2018}{Honorable Mention}{SIAM Mathworks Math Modeling Challenge}{}{}{
+\begin{itemize}
+	\item Participated, along with five group members, in the 14 hour-long national math modeling competition
+	\item Developed a model to address several key issues surrounding food insecurity and food waste in the U.S.
+\end{itemize}
+}
+
+\section{\textit{Selected Projects \& Publications}}
+
+\cventry{May 2018}{First Author}{Imaging planets from imaginary worlds}{}{}{
+\begin{itemize}
+	\item Co-authored a paper with Guilford College Professor Don Smith on the pedagogical power of the Lucky Imaging technique for photographing planets, published in the October 2018 issue of \textit{The Physics Teacher}
+	\item Presented on this topic at the Guilford Undergraduate Symposium in April 2018 
+	\item See the article at {\color{red} https://doi.org/10.1119/1.5055339}
+\end{itemize}
+}
+
+
+
+%\cvitem{2017--2018}{Member of the Early College at Guilford Chapter of the National Honor Society}
+
+
+%----------------------------------------------------------------------------------------
+%   OTHER THINGS
+%----------------------------------------------------------------------------------------
+
+\section{\textit{Skills}}
+
+\cvitem{Computer}{Proficient in Python, \LaTeX, ArcGIS, MacOS, and Adobe Photoshop, Illustrator, InDesign, and Premiere. Intermediate experience with Linux, Vim, R, SPSS, HTML5/CSS3, Excel.}
+\cvitem{Astronomical}{Experience and training in optical and radio telescope use. Familiar with telescope control and imaging software such as TheSkyX, MaxImDL, AstroImageJ.}
+\cvitem{Mathematical}{Familiar with Linear Algebra, Differential Equations, Vector Calculus, Differential Geometry.}
+
+
+\section{\textit{References}}
+
+\begin{multicols}{2}
+\textbf{Dr. Don Smith}\\
+Associate Professor of Physics, Guilford College \\
+\emailsymbol~\texttt{dsmith4@guilford.edu}
+
+\vfill\null
+\columnbreak
+
+\textbf{Dr. Charlotte Christensen}\\
+Assistant Professor of Physics, Grinnell College\\
+\emailsymbol~\texttt{christenc@grinnell.edu}
+
+\end{multicols}
+
+\vfill
+
+
+\cvitem{}{\hspace*{\fill}\emph{* References available upon request}}
+
+
+\end{document}

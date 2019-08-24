@@ -1,0 +1,86 @@
+body {
+    background-color: #101010;
+}
+.box {
+    width:900px;
+    position:absolute;
+    top:25%;
+    left:calc(50% - 450px);
+    height:200px;
+}
+
+.box .category {
+    margin-left:20px;
+    position: relative;
+    float:left;
+    width: 150px;
+    height: 150px;
+    background-color: #101010;
+    border-radius: 15px;
+}
+
+.box .category:hover {
+    background-color:#303030;
+    transition:background-color 0.2s ease;
+}
+
+.category img {
+    width:inherit;
+    height:inherit;
+    margin:auto;
+}
+
+.dropdown {
+    opacity:0;
+    align:center;
+    width:135px;
+    height:100px;
+    color:black;
+    
+}
+.dropdown:hover .category {
+    background-color:#303030;
+}
+.category:hover .dropdown {
+    opacity:1;
+    transition: opacity 0.2s ease;
+}
+
+.dropdown a {
+    display:inline-block;
+    width:inherit;
+    background-color:#101010;
+    color:white;
+    text-align:center;
+    font-size:15pt;
+    padding:7px;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-style: normal;
+    font-weight:2;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius:10px;
+}
+
+.dropdown a:hover {
+    background-color:#303030;
+	transition: background-color 0.05s ease;
+    
+}
+
+#skychart {
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:800px;
+    visibility: hidden;
+    z-index:1000000000000;
+    opacity:0;
+}
+
+#sky:hover ~ #skychart {
+    visibility: visible;
+    opacity:1;
+    transition: visibility 0s, opacity 0.05s ease;
+}

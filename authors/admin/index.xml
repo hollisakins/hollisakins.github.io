@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Hollis Akins</title>
+    <link>http://www.math.grin.edu/~akinshol/authors/admin/</link>
+    <description>Recent content in admin on Hollis Akins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Hollis Akins</copyright>
+    
+	<atom:link href="http://www.math.grin.edu/~akinshol/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.math.grin.edu/~akinshol/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.math.grin.edu/~akinshol/author/admin/</guid>
+      <description>Hollis Akins is an undergraduate student currently studying physics at Grinnell College in Grinnell, IA. There he works as mentor at the Data Analysis and Social Inquiry Lab and plays an active role in the student Astronomy Group. His primary research interests are in astrophysics and cosmology, and he is pursuing research opportunities in these fields.He is an avid photographer and enjoys exploring art, design, music, and other creative efforts.</description>
+    </item>
+    
+  </channel>
+</rss>

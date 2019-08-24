@@ -1,0 +1,177 @@
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%   PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt,letterpaper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{red} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{multicol}
+\usepackage{footmisc} % enabling footnotes.
+\usepackage[scale=0.89]{geometry} % Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, un to adjust the width of the space allocated to your name
+\usepackage{xpatch}% http://ctan.org/pkg/xpatch
+\xpatchcmd{\cvitem}{#3}{\small #3}{}{}
+
+\renewcommand*{\cventry}[7][.25em]{%
+  \cvitem[#1]{{\small\selectfont#2}}{%
+    {\bfseries#3}%
+    \ifthenelse{\equal{#4}{}}{}{, {\slshape#4}}%
+    \ifthenelse{\equal{#5}{}}{}{, #5}%
+    \ifthenelse{\equal{#6}{}}{}{, #6}%
+    .\strut%
+    \ifx&#7&%
+    \else{\newline{}\begin{minipage}[t]{\linewidth}\small#7\end{minipage}}\fi}}
+   
+ 
+
+%----------------------------------------------------------------------------------------
+%   NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Hollis} % Your first name
+\familyname{Akins} % Your last name
+% All information in this block is optional, comment out any lines you don't need
+%\title{Physics Student}
+\mobile{(336) 681-8118}
+\email{hollis.akins@gmail.com}
+\homepage{www.hollisakins.com}
+\extrainfo{\githubsocialsymbol~\linkedinsocialsymbol~hollisakins}
+\address{Box 3039, 1115 8th Ave}{Grinnell, IA 50112}
+
+%\photo[70pt][0.4pt]{pictures/picture} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+%\quote{"To work in a firm with a professional work driven environment where I can utilize and apply my knowledge." -- Tarun}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+
+\makecvtitle % Print the CV title
+
+%----------------------------------------------------------------------------------------
+%   EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+\section{\textit{Education}}
+
+\cventry{Aug 2018 -- Present}{Grinnell College}{Dean's Scholar}{Grinnell, IA}{}{
+B.A. Physics, expected graduation May 2022\hspace{\fill}GPA: 4.00/4.00\\
+Recipient of the Dean's Scholarship (\$25,000/year) and National Merit Scholarship (\$2,000/year)\\
+Coursework: modern physics, differential equations, archaeoastronomy, linear algebra, mechanics, general relativity
+}
+
+\cventry{Aug 2014 --\\May 2018}{The Early College at Guilford}{}{Greensboro, NC}{}{
+Public high-school dual-enrollment program with Guilford College\hspace{\fill}GPA: 3.96/4.00\\
+Coursework: introductory physics, computational physics, multivariable calculus, geographic information systems, experience design, observational astronomy, and studio art
+}
+
+
+
+
+%----------------------------------------------------------------------------------------
+%   EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{\textit{Work Experience}}
+%\section{Work Experience}
+%\section{Research Experience}
+
+%%%%
+% Include different sections here as you see fit, re-order if necessary, comment out listing that do not apply
+%%%%
+
+\cventry{Feb 2019 -- Present}{Science Editor}{Grinnell Undergraduate Research Journal}{Grinnell, IA}{}{Selected and provided feedback on science submissions for the 2019 journal publication \\
+Utilized Open Journal Systems to organize the peer-review process for student scientific papers} 
+
+\cventry{Dec 2018 -- Present}{Student Mentor}{Grinnell College Data Analysis and Social Inquiry Lab (DASIL)}{Grinnell, IA}{}{Trained and instructed peers in data analysis software such as ArcGIS, Python, and Excel\\Prepared Geographic Information Systems (GIS) data and visualizations for faculty and students as needed}
+
+%\cventry{Aug 2018 -- \\Dec 2018}{Staff Member}{Spencer Grill}{Grinnell, IA}{}{Assisted supervisors with food and beverage preparation and customer service.}
+
+\cventry{May 2018 --\\Aug 2018}{Research Assistant}{Guilford College Cline Observatory}{Greensboro, NC}{}{%Developed a codebase for automatic data analysis and scripted observations to facilitate current and future student research on variable stars, stellar evolution, and more
+Developed an automated data analysis pipeline and scripted observer system for the Cline Observatory\\
+This system facilitates current and future student research on variable stars, stellar evolution, instrumentation, and more\\
+ For more information and details, see {\color{red}www.hollisakins.com}}
+
+\cventry{Aug 2017 --\\Dec 2017}{Teaching Assistant}{Guilford College Art Dept.}{Greensboro, NC}{}{Instructed students in the introductory darkroom photography class at Guilford College\\
+Conducted class demonstrations, mentored students individually, provided feedback on work, and maintained the cleanliness and function of the photography lab facilities}
+
+%\cventry{Dec 2017 --\\Apr 2018}{Barista}{Starbucks Coffee Company}{Greensboro, NC}{}{Prepared food and beverages, maintained store cleanliness, and satisfied customer needs}
+
+%\cventry{Aug 2016 --\\Apr 2018}{Office Assistant}{Harris Teeter Supermarkets}{Greensboro, NC}{}{Assisted managers in supervising front-end operations by counting and handling the cash in the store, performing daily bookkeeping tasks, working at the customer service desk, and cashiering as needed}
+
+\section{\textit{Extracurricular Experience}}
+
+\cventry{Oct 2018 -- Present}{Co-Founder}{Grinnell Astronomy Group}{}{}{
+Led meetings and group discussions on recent astronomy news and discoveries \\
+Organized and taught an amateur observational astronomy course through the Experiential College program 
+}
+
+\section{\textit{Selected Projects \& Publications}}
+
+\cventry{May 2018}{First Author}{Imaging planets from imaginary worlds}{}{}{
+Co-authored a paper with Guilford College Professor Don Smith on the pedagogical power of the Lucky Imaging technique for photographing planets, published in the October 2018 issue of \textit{The Physics Teacher}\\
+Presented on this topic at the Guilford Undergraduate Symposium in April 2018\\
+See the article at {\color{red} https://doi.org/10.1119/1.5055339}.}
+
+\cventry{Mar 2018}{Honorable Mention}{SIAM Mathworks Math Modeling Challenge}{}{}{
+Participated, along with five group members, in the 14 hour-long national math modeling competition\\
+Developed a model to address several key issues surrounding food insecurity and food waste in the U.S.\\
+See the final paper at {\color{red}www.hollisakins.com}
+}
+
+%\cvitem{2017--2018}{Member of the Early College at Guilford Chapter of the National Honor Society}
+
+
+%----------------------------------------------------------------------------------------
+%   OTHER THINGS
+%----------------------------------------------------------------------------------------
+
+\section{\textit{Skills}}
+
+\cvitem{Computer}{Proficient in Python, \LaTeX, MacOS, and Adobe Photoshop, Illustrator, InDesign, and Premiere. Intermediate experience with Linux, Vim, HTML5/CSS3, Excel, and ArcGIS. Some experience with R.}
+\vfill
+
+%\cvitem{personal}{I am a detail-oriented independent learner, able to adapt quickly to new situations. I am responsible, disciplined, and reliable, and work well under pressure.}
+
+%\cvitem{interpersonal}{I work well on a team, working with other's ideas as well as contributing my own. I am able to communicate clearly, effectively, and helpfully with others.}
+%\cvitem{astronomical}{Experience and training in optical and radio telescope use. Familiar with telescope control and imaging software such as TheSkyX, MaxImDL, AstroImageJ.}
+
+\cvitem{}{\hspace*{\fill}\emph{* References available upon request}}
+
+
+%\section{\textit{References}}
+%
+%\begin{multicols}{2}
+%\cvitem{name}{Don Smith}
+%\cvitem{title}{Associate Professor, Guilford College}
+%\cvitem{mail}{email@guilford.edu}
+%\vfill\null
+%\columnbreak
+%\cvitem{name}{blah blah}
+%\cvitem{title}{Professor, somewhere}
+%\cvitem{mail}{email@institution.edu}
+%
+%\end{multicols}
+%----------------------------------------------------------------------------------------
+%   COVER LETTER
+%----------------------------------------------------------------------------------------
+\end{document}
