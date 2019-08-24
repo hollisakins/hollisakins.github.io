@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>astronomy on Hollis Akins</title>
-    <link>http://www.math.grin.edu/~akinshol/tags/astronomy/</link>
+    <link>hollisakins.github.io/tags/astronomy/</link>
     <description>Recent content in astronomy on Hollis Akins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hollis Akins</copyright>
     <lastBuildDate>Thu, 21 Mar 2019 11:24:38 -0700</lastBuildDate>
     
-	<atom:link href="http://www.math.grin.edu/~akinshol/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="hollisakins.github.io/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Astrophotography</title>
-      <link>http://www.math.grin.edu/~akinshol/project/astrophotography/</link>
+      <link>hollisakins.github.io/project/astrophotography/</link>
       <pubDate>Thu, 21 Mar 2019 11:24:38 -0700</pubDate>
       
-      <guid>http://www.math.grin.edu/~akinshol/project/astrophotography/</guid>
+      <guid>hollisakins.github.io/project/astrophotography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Pipeline</title>
-      <link>http://www.math.grin.edu/~akinshol/project/observatory/</link>
+      <link>hollisakins.github.io/project/observatory/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
-      <guid>http://www.math.grin.edu/~akinshol/project/observatory/</guid>
+      <guid>hollisakins.github.io/project/observatory/</guid>
       <description>I worked as a Research Assistant at the Guilford College Cline Observatory in the summer of 2018, studying variable stars and constructing a system for automatic data analysis and collection. The project was intended primarily to facilitate future student research using the tools I developed. While the nature of the project did not necessitate a final research paper or presentation, I have compiled a short summary of the work I did and the preliminary results obtained, which can be found here.</description>
     </item>
     
     <item>
       <title>Lucky Imaging</title>
-      <link>http://www.math.grin.edu/~akinshol/project/lucky/</link>
+      <link>hollisakins.github.io/project/lucky/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
-      <guid>http://www.math.grin.edu/~akinshol/project/lucky/</guid>
+      <guid>hollisakins.github.io/project/lucky/</guid>
       <description>For my final project for an observational astronomy class at Guilford College, I used a method called Lucky Imaging to photograph planets and incoorporate them into artistic photographs. The project was exhibited as a poster presentation at the Guilford Undergraduate Symposium, and turned into an article which was published in the October 2018 edition of The Physics Teacher.</description>
     </item>
     

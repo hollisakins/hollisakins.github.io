@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Hollis Akins</title>
-    <link>http://www.math.grin.edu/~akinshol/publication_types/2/</link>
+    <link>hollisakins.github.io/publication_types/2/</link>
     <description>Recent content in 2 on Hollis Akins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hollis Akins</copyright>
     <lastBuildDate>Thu, 20 Sep 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://www.math.grin.edu/~akinshol/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="hollisakins.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Imaging planets from imaginary worlds</title>
-      <link>http://www.math.grin.edu/~akinshol/publication/astro/</link>
+      <link>hollisakins.github.io/publication/astro/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://www.math.grin.edu/~akinshol/publication/astro/</guid>
+      <guid>hollisakins.github.io/publication/astro/</guid>
       <description></description>
     </item>
     
