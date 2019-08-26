@@ -3,6 +3,12 @@
   
     <url>
     
+      <loc>http://hollisakins.github.io/project/dwarf/</loc>
+      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>http://hollisakins.github.io/project/astrophotography/</loc>
       <lastmod>2019-03-21T11:24:38-07:00</lastmod>
     </url>
@@ -27,7 +33,13 @@
   
     <url>
     
-      <loc>http://hollisakins.github.io/project/gis/</loc>
+      <loc>http://hollisakins.github.io/project/green_space/</loc>
+      <lastmod>2019-03-21T09:52:56-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://hollisakins.github.io/project/urban_sprawl/</loc>
       <lastmod>2019-03-21T09:52:56-07:00</lastmod>
     </url>
   
@@ -94,7 +106,7 @@
     <url>
     
       <loc>http://hollisakins.github.io/</loc>
-      <lastmod>2019-03-21T11:24:38-07:00</lastmod>
+      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -113,7 +125,7 @@
     <url>
     
       <loc>http://hollisakins.github.io/project/</loc>
-      <lastmod>2019-03-21T11:24:38-07:00</lastmod>
+      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -150,6 +162,13 @@
   
     <url>
     
+      <loc>http://hollisakins.github.io/tags/astro/</loc>
+      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>http://hollisakins.github.io/tags/astronomy/</loc>
       <lastmod>2019-03-21T11:24:38-07:00</lastmod>
       <priority>0</priority>
@@ -165,7 +184,7 @@
     <url>
     
       <loc>http://hollisakins.github.io/tags/research/</loc>
-      <lastmod>2019-03-21T09:52:56-07:00</lastmod>
+      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
       <priority>0</priority>
     </url>
   
