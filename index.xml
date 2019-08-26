@@ -1,20 +1,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hollis Akins on Hollis Akins</title>
-    <link>http://hollisakins.github.io/</link>
+    <link>/</link>
     <description>Recent content in Hollis Akins on Hollis Akins</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hollis Akins</copyright>
-    <lastBuildDate>Mon, 26 Aug 2019 09:52:56 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Automated data reduction at a small college observatory</title>
+      <link>/publication/pipeline/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/pipeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Simulated Dwarf Galaxies</title>
-      <link>http://hollisakins.github.io/project/dwarf/</link>
+      <link>/project/dwarf/</link>
       <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
       
-      <guid>http://hollisakins.github.io/project/dwarf/</guid>
+      <guid>/project/dwarf/</guid>
       <description>&lt;p&gt;In this project, I explored the suppression of star-formation (quenching) in dwarf satellite galaxies using ultra-high resolution cosmoligical simulations.
 This project was made possible by the Grinnell College Mentored Advanced Project (MAP) program, and the linked paper is the final paper for the summer project.
 Future presentations &amp;amp; publications on this topic will be listed here.&lt;/p&gt;
@@ -23,86 +32,86 @@ Future presentations &amp;amp; publications on this topic will be listed here.&l
     
     <item>
       <title>Astrophotography</title>
-      <link>http://hollisakins.github.io/project/astrophotography/</link>
+      <link>/project/astrophotography/</link>
       <pubDate>Thu, 21 Mar 2019 11:24:38 -0700</pubDate>
       
-      <guid>http://hollisakins.github.io/project/astrophotography/</guid>
+      <guid>/project/astrophotography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perspectives</title>
-      <link>http://hollisakins.github.io/project/perspectives/</link>
+      <link>/project/perspectives/</link>
       <pubDate>Thu, 21 Mar 2019 11:24:38 -0700</pubDate>
       
-      <guid>http://hollisakins.github.io/project/perspectives/</guid>
+      <guid>/project/perspectives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Data Reduction</title>
-      <link>http://hollisakins.github.io/project/observatory/</link>
+      <link>/project/observatory/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
-      <guid>http://hollisakins.github.io/project/observatory/</guid>
+      <guid>/project/observatory/</guid>
       <description>&lt;p&gt;In the summer of 2018, I worked as a Research Assistant at the Guilford College Cline Observatory, studying variable stars and constructing a system for automatic data analysis and collection. The project was intended primarily to facilitate future student research using the tools I developed. The data analysis pipeline is detailed in the paper below.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lucky Imaging</title>
-      <link>http://hollisakins.github.io/project/lucky/</link>
+      <link>/project/lucky/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
-      <guid>http://hollisakins.github.io/project/lucky/</guid>
-      <description>&lt;p&gt;For my final project for an observational astronomy class at Guilford College, I used a method called Lucky Imaging to photograph planets and incoorporate them into artistic photographs. The project was exhibited as a &lt;a href=&#34;poster.pdf&#34; target=&#34;_blank&#34;&gt;poster presentation&lt;/a&gt; at the Guilford Undergraduate Symposium, and turned into an &lt;a href=&#34;http://hollisakins.github.io/~akinshol/publication/astro&#34;&gt;article&lt;/a&gt; which was published in the October 2018 edition of The Physics Teacher.&lt;/p&gt;
+      <guid>/project/lucky/</guid>
+      <description>&lt;p&gt;For my final project for an observational astronomy class at Guilford College, I used a method called Lucky Imaging to photograph planets and incoorporate them into artistic photographs. The project was exhibited as a &lt;a href=&#34;poster.pdf&#34; target=&#34;_blank&#34;&gt;poster presentation&lt;/a&gt; at the Guilford Undergraduate Symposium, and turned into an &lt;a href=&#34;/~akinshol/publication/astro&#34;&gt;article&lt;/a&gt; which was published in the October 2018 edition of The Physics Teacher.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Urban Green Space</title>
-      <link>http://hollisakins.github.io/project/green_space/</link>
+      <link>/project/green_space/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
-      <guid>http://hollisakins.github.io/project/green_space/</guid>
+      <guid>/project/green_space/</guid>
       <description>&lt;p&gt;This study was completed for the Applied GIS course at Grinnell College and explored the relationship between environmental amenities, in the form of urban green space, and household income in Seattle, WA. I developed urban green space GIS layers for mean NDVI, percentage canopy cover, tree density, and percentage park at the census block group level. Using standard and geospatial regression procedures in GeoDa, I found a significant correlation between these explanatory variables and median income (R-squared = 0.43). This study could be extended to predict additional demographic variables or analyze other urban areas.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Urban Sprawl</title>
-      <link>http://hollisakins.github.io/project/urban_sprawl/</link>
+      <link>/project/urban_sprawl/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
-      <guid>http://hollisakins.github.io/project/urban_sprawl/</guid>
+      <guid>/project/urban_sprawl/</guid>
       <description>&lt;p&gt;While not a full-fledged research project, I have used Geographic Information Systems (GIS) software to study the impacts of urban sprawl on developing cities. This was a final project for a GIS class at Guilford College, completed over three weeks in the fall of 2018. The final paper can be found here.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Imaging planets from imaginary worlds</title>
-      <link>http://hollisakins.github.io/publication/astro/</link>
+      <link>/publication/astro/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://hollisakins.github.io/publication/astro/</guid>
+      <guid>/publication/astro/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://hollisakins.github.io/astrophotography/</link>
+      <link>/astrophotography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://hollisakins.github.io/astrophotography/</guid>
+      <guid>/astrophotography/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://hollisakins.github.io/perspectives/</link>
+      <link>/perspectives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://hollisakins.github.io/perspectives/</guid>
+      <guid>/perspectives/</guid>
       <description></description>
     </item>
     
