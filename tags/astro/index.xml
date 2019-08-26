@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>astro on Hollis Akins</title>
+    <link>http://hollisakins.github.io/tags/astro/</link>
+    <description>Recent content in astro on Hollis Akins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Hollis Akins</copyright>
+    <lastBuildDate>Mon, 26 Aug 2019 09:52:56 -0700</lastBuildDate>
+    
+	<atom:link href="http://hollisakins.github.io/tags/astro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simulated Dwarf Galaxies</title>
+      <link>http://hollisakins.github.io/project/dwarf/</link>
+      <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
+      
+      <guid>http://hollisakins.github.io/project/dwarf/</guid>
+      <description>In this project, I explored the suppression of star-formation (quenching) in dwarf satellite galaxies using ultra-high resolution cosmoligical simulations. This project was made possible by the Grinnell College Mentored Advanced Project (MAP) program, and the linked paper is the final paper for the summer project. Future presentations &amp;amp; publications on this topic will be listed here.</description>
+    </item>
+    
+    <item>
+      <title>Automated Data Reduction</title>
+      <link>http://hollisakins.github.io/project/observatory/</link>
+      <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
+      
+      <guid>http://hollisakins.github.io/project/observatory/</guid>
+      <description>In the summer of 2018, I worked as a Research Assistant at the Guilford College Cline Observatory, studying variable stars and constructing a system for automatic data analysis and collection. The project was intended primarily to facilitate future student research using the tools I developed. The data analysis pipeline is detailed in the paper below.</description>
+    </item>
+    
+    <item>
+      <title>Lucky Imaging</title>
+      <link>http://hollisakins.github.io/project/lucky/</link>
+      <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
+      
+      <guid>http://hollisakins.github.io/project/lucky/</guid>
+      <description>For my final project for an observational astronomy class at Guilford College, I used a method called Lucky Imaging to photograph planets and incoorporate them into artistic photographs. The project was exhibited as a poster presentation at the Guilford Undergraduate Symposium, and turned into an article which was published in the October 2018 edition of The Physics Teacher.</description>
+    </item>
+    
+  </channel>
+</rss>
