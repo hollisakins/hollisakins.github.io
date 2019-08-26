@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hollis Akins</copyright>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://hollisakins.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -26,15 +27,6 @@
       <pubDate>Thu, 20 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>http://hollisakins.github.io/authors/hollis-b.-akins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admin</title>
-      <link>http://hollisakins.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://hollisakins.github.io/authors/admin/</guid>
       <description></description>
     </item>
     

@@ -18,7 +18,7 @@
       <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
       
       <guid>http://hollisakins.github.io/project/dwarf/</guid>
-      <description>In this project, I explored the suppression of star-formation (quenching) in dwarf satellite galaxies using ultra-high resolution cosmoligical simulations. This project was made possible by the Grinnell College Mentored Advanced Project (MAP) program, and the linked paper is the final paper for the summer project. Future presentations &amp;amp; publications on this topic will be listed here.</description>
+      <description>Summer research project studying the evolution and star-formation properties of dwarf satellite galaxies using ultra-high resolution cosmological simulations.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Thu, 21 Mar 2019 11:24:38 -0700</pubDate>
       
       <guid>http://hollisakins.github.io/project/astrophotography/</guid>
-      <description></description>
+      <description>Snapshots of the night sky and its many mysteries.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Thu, 21 Mar 2019 11:24:38 -0700</pubDate>
       
       <guid>http://hollisakins.github.io/project/perspectives/</guid>
-      <description></description>
+      <description>A series of surreal photographs created with a unique analog darkroom process.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
       <guid>http://hollisakins.github.io/project/observatory/</guid>
-      <description>In the summer of 2018, I worked as a Research Assistant at the Guilford College Cline Observatory, studying variable stars and constructing a system for automatic data analysis and collection. The project was intended primarily to facilitate future student research using the tools I developed. The data analysis pipeline is detailed in the paper below.</description>
+      <description>Summer research project at the Guilford College Cline Observatory, developing a tool for programatic photometry and variable star studies.</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
       <guid>http://hollisakins.github.io/project/lucky/</guid>
-      <description>For my final project for an observational astronomy class at Guilford College, I used a method called Lucky Imaging to photograph planets and incoorporate them into artistic photographs. The project was exhibited as a poster presentation at the Guilford Undergraduate Symposium, and turned into an article which was published in the October 2018 edition of The Physics Teacher.</description>
+      <description>Artistic planetary astrophotography using the lucky imaging technique.</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
       <guid>http://hollisakins.github.io/project/green_space/</guid>
-      <description>This study was completed for the Applied GIS course at Grinnell College and explored the relationship between environmental amenities, in the form of urban green space, and household income in Seattle, WA. I developed urban green space GIS layers for mean NDVI, percentage canopy cover, tree density, and percentage park at the census block group level. Using standard and geospatial regression procedures in GeoDa, I found a significant correlation between these explanatory variables and median income (R-squared = 0.</description>
+      <description>GIS project exploring urban green space and environmental justice in Seattle, WA.</description>
     </item>
     
     <item>
@@ -72,7 +72,7 @@
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
       <guid>http://hollisakins.github.io/project/urban_sprawl/</guid>
-      <description>While not a full-fledged research project, I have used Geographic Information Systems (GIS) software to study the impacts of urban sprawl on developing cities. This was a final project for a GIS class at Guilford College, completed over three weeks in the fall of 2018. The final paper can be found here.</description>
+      <description>GIS project exploring the extent of urban sprawl in Portland, OR.</description>
     </item>
     
   </channel>

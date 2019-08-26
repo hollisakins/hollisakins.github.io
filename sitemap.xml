@@ -1,10 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+    
+      <loc>http://hollisakins.github.io/tags/astro/</loc>
+      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://hollisakins.github.io/</loc>
+      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://hollisakins.github.io/project/</loc>
+      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://hollisakins.github.io/tags/research/</loc>
+      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
+    </url>
   
     <url>
     
       <loc>http://hollisakins.github.io/project/dwarf/</loc>
       <lastmod>2019-08-26T09:52:56-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://hollisakins.github.io/tags/</loc>
+      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://hollisakins.github.io/tags/astronomy/</loc>
+      <lastmod>2019-03-21T11:24:38-07:00</lastmod>
     </url>
   
     <url>
@@ -21,7 +56,19 @@
   
     <url>
     
+      <loc>http://hollisakins.github.io/tags/photography/</loc>
+      <lastmod>2019-03-21T11:24:38-07:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>http://hollisakins.github.io/project/observatory/</loc>
+      <lastmod>2019-03-21T09:52:56-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://hollisakins.github.io/tags/gis/</loc>
       <lastmod>2019-03-21T09:52:56-07:00</lastmod>
     </url>
   
@@ -45,7 +92,43 @@
   
     <url>
     
+      <loc>http://hollisakins.github.io/publication_types/2/</loc>
+      <lastmod>2018-09-20T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://hollisakins.github.io/authors/</loc>
+      <lastmod>2018-09-20T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://hollisakins.github.io/authors/donald-a.-smith/</loc>
+      <lastmod>2018-09-20T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://hollisakins.github.io/authors/hollis-b.-akins/</loc>
+      <lastmod>2018-09-20T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>http://hollisakins.github.io/publication/astro/</loc>
+      <lastmod>2018-09-20T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://hollisakins.github.io/publication_types/</loc>
+      <lastmod>2018-09-20T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://hollisakins.github.io/publication/</loc>
       <lastmod>2018-09-20T00:00:00-05:00</lastmod>
     </url>
   
@@ -66,55 +149,12 @@
   
     <url>
     
-      <loc>http://hollisakins.github.io/publication_types/2/</loc>
-      <lastmod>2018-09-20T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>http://hollisakins.github.io/author/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://hollisakins.github.io/authors/</loc>
-      <priority>0</priority>
     </url>
   
     <url>
     
       <loc>http://hollisakins.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://hollisakins.github.io/authors/donald-a.-smith/</loc>
-      <lastmod>2018-09-20T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://hollisakins.github.io/tags/gis/</loc>
-      <lastmod>2019-03-21T09:52:56-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://hollisakins.github.io/</loc>
-      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://hollisakins.github.io/authors/hollis-b.-akins/</loc>
-      <lastmod>2018-09-20T00:00:00-05:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -124,68 +164,7 @@
   
     <url>
     
-      <loc>http://hollisakins.github.io/project/</loc>
-      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://hollisakins.github.io/publication_types/</loc>
-      <lastmod>2018-09-20T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://hollisakins.github.io/publication/</loc>
-      <lastmod>2018-09-20T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>http://hollisakins.github.io/talk/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>http://hollisakins.github.io/tags/</loc>
-      <lastmod>2019-03-21T09:52:56-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://hollisakins.github.io/authors/admin/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://hollisakins.github.io/tags/astro/</loc>
-      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://hollisakins.github.io/tags/astronomy/</loc>
-      <lastmod>2019-03-21T11:24:38-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://hollisakins.github.io/tags/photography/</loc>
-      <lastmod>2019-03-21T11:24:38-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>http://hollisakins.github.io/tags/research/</loc>
-      <lastmod>2019-08-26T09:52:56-07:00</lastmod>
-      <priority>0</priority>
     </url>
   
 </urlset>

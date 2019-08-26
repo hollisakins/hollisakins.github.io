@@ -18,7 +18,7 @@
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
       <guid>http://hollisakins.github.io/project/green_space/</guid>
-      <description>This study was completed for the Applied GIS course at Grinnell College and explored the relationship between environmental amenities, in the form of urban green space, and household income in Seattle, WA. I developed urban green space GIS layers for mean NDVI, percentage canopy cover, tree density, and percentage park at the census block group level. Using standard and geospatial regression procedures in GeoDa, I found a significant correlation between these explanatory variables and median income (R-squared = 0.</description>
+      <description>GIS project exploring urban green space and environmental justice in Seattle, WA.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
       <guid>http://hollisakins.github.io/project/urban_sprawl/</guid>
-      <description>While not a full-fledged research project, I have used Geographic Information Systems (GIS) software to study the impacts of urban sprawl on developing cities. This was a final project for a GIS class at Guilford College, completed over three weeks in the fall of 2018. The final paper can be found here.</description>
+      <description>GIS project exploring the extent of urban sprawl in Portland, OR.</description>
     </item>
     
   </channel>
