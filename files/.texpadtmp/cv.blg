@@ -1,5 +1,5 @@
 [0] Config.pm:343> INFO - This is Biber 2.5
-[1] Config.pm:346> INFO - Logfile is '/Users/lbakins/Google Drive/Code/websites/githubio/static/files/.texpadtmp/cv.blg'
-[57] biber-darwin:290> INFO - === Mon Aug 26, 2019, 16:11:20
-[90] Biber.pm:351> INFO - Reading '/Users/lbakins/Google Drive/Code/websites/githubio/static/files/.texpadtmp/cv.bcf'
-[200] Utils.pm:149> WARN - No data sources defined!
+[0] Config.pm:346> INFO - Logfile is '/Users/lbakins/Google Drive/Code/websites/githubio/public/files/.texpadtmp/cv.blg'
+[51] biber-darwin:290> INFO - === Thu Sep 26, 2019, 23:39:01
+[76] Biber.pm:351> INFO - Reading '/Users/lbakins/Google Drive/Code/websites/githubio/public/files/.texpadtmp/cv.bcf'
+[210] Utils.pm:149> WARN - No data sources defined!
