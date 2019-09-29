@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  26 SEP 2019 23:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  29 SEP 2019 00:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1308,13 +1308,13 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 147.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 155.
  [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 202.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 202.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 209.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 209.
  (/Users/lbakins/Google Drive/Code/websites/githubio/public/files/.texpadtmp/cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 202.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 202.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 209.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 209.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 \openout1 = `cv.run.xml'.
 
@@ -1322,13 +1322,13 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of TeX's memory you used:
  34614 strings out of 493014
  639238 string characters out of 6133351
- 1190666 words of memory out of 5000000
+ 1191664 words of memory out of 5000000
  37705 multiletter control sequences out of 15000+600000
  56592 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,14n,60p,10354b,1720s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on "/Users/lbakins/Google Drive/Code/websites/githubio/public/files/.texpadtmp/cv.pdf" (2 pages, 163140 bytes).
+Output written on "/Users/lbakins/Google Drive/Code/websites/githubio/public/files/.texpadtmp/cv.pdf" (2 pages, 163648 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
