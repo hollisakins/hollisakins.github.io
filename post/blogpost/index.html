@@ -1,0 +1,84 @@
+
+
+<p>Minutes into the <a href="https://time.com/3923128/donald-trump-announcement-speech/" target="_blank">announcement of his presidential campaign</a>, Donald Trump launched into an attack of Mexican immigrants, referring to them as “rapists and criminals” and vowing to restrict immigration through the construction of a border wall. Trump promised to “make America great again,” appealing directly to a feeling of dissatisfaction with the times—a desire to return to a past, in which America was “great,” at least for some.</p>
+<p>Since inauguration, Trump has only furthered the role of nativism in the public eye.
+The <a href="https://projects.fivethirtyeight.com/trump-approval-ratings/" target="_blank">separation of parents and children at the border</a> and his erroneous <a href="https://www.vox.com/2019/7/15/20694616/donald-trump-racist-tweets-omar-aoc-tlaib-pressley" target="_blank">calls for Democratic congresswomen to “go back”</a> to where they came from emphasize his disdain for racial and cultural diversity.
+Despite this, he has managed to maintain a solid base, with his <a href="https://projects.fivethirtyeight.com/trump-approval-ratings/" target="_blank">approval rating</a> never dropping below 35%. His base appears inflamed by this xenophobic rhetoric, allowing it to inform many components of their political beliefs.</p>
+<p>In this post, we analyze data from the November 2018 <a href="https://www.grinnell.edu/poll" target="_blank">Grinnell College National Poll</a> to examine the effects of nativism on people’s views on a variety of issues, and its overall role in the electorate.
+Briefly, we find that nativism is pervasive in affecting views on a wide variety of issues, even when controlling for demographics.
+We find higher rates of nativism in people who express negative opinions of immigrants and refugees, and in people who see discrimination against white men in the U.S. today.
+We find that nativism is connected to one’s harboring of hateful feelings towards religious groups, but unconnected to one’s willingness to express said hate.</p>
+<div id="data" class="section level2">
+<h2>Data</h2>
+<p>In this analysis, we use the Grinnell College National Poll conducted November 24–27 2018 by Selzer &amp; Co. of Des Moines, Iowa.
+The poll is based on telephone interviews with 1,000 U.S. adults ages 18 or older, including 828 likely voters in the 2020 general election and 769 self-identified voters in the 2018 midterm election.
+Results are weighted by race, age, and educational atainment to best reflect the general population based on census data.</p>
+<p>This analysis focuses heavily on the “American Identity” battery of questions on the GCNP, in which respondents are asked to rate how important various traits are to “being a real American.”
+Some traits provided are rooted in <em>identity</em>, such as “To have been born in America” and “To be a Christian.”
+Others are rooted in <em>civic</em> beliefs, such as “To believe in treating people equally” and “To respect America’s political institutions and laws.”
+This set of questions allows us to assess the degree to which someone holds nativist views of American identity.</p>
+
+
+
+
+
+
+<p>This analysis additionally utilizes questions on immigration, refugee resettlment, hate, and discrimination.
+The full questionaire, with summarized results, is available <a href="https://www.grinnell.edu/sites/default/files/docs/2018-12/Grinnell%20College%20National%20Poll_Nov18.pdf" target="_blank">here</a>.</p>
+</div>
+<div id="analysis" class="section level2">
+<h2>Analysis</h2>
+<p>To assess levels of nativism among respondents, we generate a <strong>nativism index</strong> based on responses to the American Identity questions. The identity-based traits used to create the index are:</p>
+<ol style="list-style-type: decimal">
+<li>To have been born in America</li>
+<li>To have lived in America most of one’s life</li>
+<li>To be able to speak English</li>
+<li>To be a Christian</li>
+</ol>
+<p>I generated the nativism index by coding “Not Important” as 0, “Just Somewhat Important” as 1, “Fairly Important” as 2, and “Very Important” as 3, summing the results from each trait, and scaling so the final index ranges from 0 to 1. Thus, a value of 1 means that the respondent answered “Very Important” to all four traits.
+Figure 1 shows how this nativism index breaks down by party.
+Nativism appears concentrated in the Republican party, though prevalent to some degree in all groups.
+[This is likely from the English question, do the analysis to state a percentage here]</p>
+<p><img src="BlogPost_files/figure-html/party_id-1.png" width="480" style="display: block; margin: auto;" /></p>
+<p>Nativist attitudes regarding what it means to be an American manifest themselves in beliefs regarding other issues.
+Figure 2 shows nativism by responses to the question “Compared to the U.S. population overall, do you think the rate of violent crime committed by [undocumented/illegal] immigrants in the United States is higher, lower, or about the same?”
+This question was a survey experiment—for half of respondents, the question was worded as “undocumented” immigrants. For the other half, “illegal” immigrants.<br />
+We do not see any significant difference in nativism between those responding “Higher” to either of these questions—however, nativism is highly prevalent among those who say that immigrants commit crimes at a higher rate.
+This may suggest that nativism is not inflamed by the wording of the question, but rather rooted in a deeper xenophobic tendency.
+[Research shows that xenphobic beliefs towards immigrants are connected to nativism]</p>
+<p><img src="BlogPost_files/figure-html/plot_immig_both-1.png" width="480" style="display: block; margin: auto;" /></p>
+<p>Similarly, Figure 3 shows nativism broken down by responses to the question “Currently, do you think there are too many, a lot but not too many, or not too many refugees allowed into the U.S.?”
+Nativism appears to affect how accepting one is of refugees: a rigid, identity-based view of what it means to be an American makes one less inclined to accept migrants, particularly those from poor, largely non-white countries.
+[This is supported through Research]</p>
+<p><img src="BlogPost_files/figure-html/plot_refugee_amt-1.png" width="480" style="display: block; margin: auto;" /></p>
+<p>The connection between nativism and attitudes towards immigration may seem obvious, but it shouldn’t be. Nativism is defined based on perceptions of American identity—the fact that it is so influential in defining people’s views on immigration indicates that one’s perception of American identity regulates views on other issues in national politics, and that widespread disagreement on what it <em>means</em> to be an American contributes to widespread political polarization.</p>
+<p>So how does nativism connect to issues in national politics, such as immigration?
+Figure 4 shows nativism broken down by responses to the question “Please tell me if you think [White Men], living here in the United States, experience a lot of discrimination, a little discrimination, or virtually no discrimination.”
+Nativism appears far more prevalent among people responding that white men face a lot or even a little discrimination.
+With increasing opportunities for immigrants and minority groups, nativists see white men as <em>victims</em> of a changing America with shifting priorities, and this feeling of personal vulnerability and victimhood bleeds into other social issues.</p>
+<p><img src="BlogPost_files/figure-html/plot_disc_whitemen-1.png" width="480" style="display: block; margin: auto;" /></p>
+<p>Importantly, these feelings are not limited to white male victimhood, but rather build into feelings of general racial resentment.
+Nativism is connected to increased belief that white men face discrimination, as well as <em>decreased</em> belief that African Americans and Muslims do.
+Figure 5 below shows the relative significance of various variables in predicting the value of percieved discrimination against white men (blue circles), African Americans (orange squares), and Muslims (green diamonds).
+While most control variables are not significant, only the nativism index is significant in all three regression models.
+The perception of white men, rather than black or Muslim Americans, as the true victims of discrimination underscores that nativism is firmly connected to racial resentment.
+The most extreme nativists don’t feel shared American identity across racial and religious groups, and see diversity in America as an influx of non-Americans.
+</p>
+<p><img src="BlogPost_files/figure-html/coefplots-1.png" width="480" style="display: block; margin: auto;" /></p>
+<p>Racial resentment, indicated through these discrimination questions, appears deeply connected to nativism. However, religious discrimination and religious hate may also be tired to nativism, as Islamophobia remains pervasive in American society.
+Figure 6 shows nativism broken down by responses to the question “I’ll mention some entities you might hate, and for each I’d like you to tell me if you do—just answer yes or no” for the entity “A religion.”
+Nativism is more prevalent among those who say that they do hate a religion, indicating not only religious resentment but specifically <em>hate</em>, a extreme feeling uniquely able to regulate political beliefs.</p>
+<p><img src="BlogPost_files/figure-html/plot_hate_religion-1.png" width="480" style="display: block; margin: auto;" /></p>
+<p>Finally, Figure 7 shows nativism broken down by responses to the question “In general, do you feel it is okay or not okay to express feelings of hate in a public manner, including through social media?”
+Importantly, nativism does not appear more or less prevalent in either responses to this question, indicating an overall agreement that hate is not something to express.
+Though nativism and hate <em>expression</em> are not related, nativism and the <em>harboring</em> of hate for a racial group is, indicating a general feeling of discomfort expressing ………</p>
+<p><img src="BlogPost_files/figure-html/plot_hate_okay-1.png" width="480" style="display: block; margin: auto;" /></p>
+</div>
+<div id="conclusion" class="section level2">
+<h2>Conclusion</h2>
+<p>From this analysis, we can tell a story as to how nativism, and its effect on Americans’ acceptance of diversity, plays a role in American politics. First, it is clear that nativism is most prevalent among people who think that the U.S. lets in too many refugees and that immigrants commit crimes at a higher rate—i.e. nativism informs and inflames xenophobic sentiment. The effect on xenophobia highlights an important result: that a nativist understanding of American identity is connected in some way to a lack of acceptance of foreigners and their culture.</p>
+<p>Digging deeper, we find that nativism is highly prevalent among people who believe that white men/Christians experience a lot of discrimination and that African/Muslim Americans experience none. This highlights a key component of present-day American nativism: a mentality of victimization, in which nativists see themselves as the victims in a changing America, one more accepting of immigrants and diversity and placing less value on whiteness, Christianity, and heritage. As nativists are inclined towards xenophobic ideas, they see themselves as discriminated against by immigrants and minorities.</p>
+<p>Deeper still, we see that this racial resentment and victim mentality manifests itself through feelings of hate. We see in our analysis that nativism is very prevalent among people who indicated that they hate “a religion.” While we don’t know for sure which religion this is, it is almost certainly not Christianity, and likely Islam. These feelings of hatred are driven by resentment at (this case religious) minorities, who nativists see as the actors in the discrimination against them.</p>
+<p>Finally, we see that nativism is not related to whether one sees it as okay to express feelings of hate publicly. While these feelings of hate do in fact exist, the understanding that hate against religious or racial minorities is frowned upon reduces people’s willingness to publicly express these feelings. Thus, nativists’ feelings of racial/religious resentment and hatred are kept inside.</p>
+<p>This brings us to our final point: how all this connects to American politics today. In 2016, Donald Trump launched a presidential campaign firmly rooted in nativist ideas, and appealing directly to these feelings of resentment and victimization. Recent major political campaigns have avoided from such overt appeals to nativist sentiment, but for Trump, this was critical to his victory. His campaign acted as an outlet for pent-up hatred and resentment in nativists, and they became the core of his political base. The data from the GCNP support this understanding of Trump’s 2016 win, and provide a route for us to further analyze these political phenomena.</p>
+</div>

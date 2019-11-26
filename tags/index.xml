@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hollis Akins</title>
-    <link>/tags/</link>
+    <link>http://hollisakins.github.io/tags/</link>
     <description>Recent content in Tags on Hollis Akins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hollis Akins</copyright>
     <lastBuildDate>Mon, 26 Aug 2019 09:52:56 -0700</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hollisakins.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>astro</title>
-      <link>/tags/astro/</link>
+      <link>http://hollisakins.github.io/tags/astro/</link>
       <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
       
-      <guid>/tags/astro/</guid>
+      <guid>http://hollisakins.github.io/tags/astro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>research</title>
-      <link>/tags/research/</link>
+      <link>http://hollisakins.github.io/tags/research/</link>
       <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
       
-      <guid>/tags/research/</guid>
+      <guid>http://hollisakins.github.io/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>astronomy</title>
-      <link>/tags/astronomy/</link>
+      <link>http://hollisakins.github.io/tags/astronomy/</link>
       <pubDate>Thu, 21 Mar 2019 11:24:38 -0700</pubDate>
       
-      <guid>/tags/astronomy/</guid>
+      <guid>http://hollisakins.github.io/tags/astronomy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>photography</title>
-      <link>/tags/photography/</link>
+      <link>http://hollisakins.github.io/tags/photography/</link>
       <pubDate>Thu, 21 Mar 2019 11:24:38 -0700</pubDate>
       
-      <guid>/tags/photography/</guid>
+      <guid>http://hollisakins.github.io/tags/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GIS</title>
-      <link>/tags/gis/</link>
+      <link>http://hollisakins.github.io/tags/gis/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
-      <guid>/tags/gis/</guid>
+      <guid>http://hollisakins.github.io/tags/gis/</guid>
       <description></description>
     </item>
     
