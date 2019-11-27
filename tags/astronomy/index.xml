@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>astronomy on Hollis Akins</title>
-    <link>/tags/astronomy/</link>
+    <link>http://hollisakins.github.io/tags/astronomy/</link>
     <description>Recent content in astronomy on Hollis Akins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hollis Akins</copyright>
     <lastBuildDate>Thu, 21 Mar 2019 11:24:38 -0700</lastBuildDate>
     
-	<atom:link href="/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hollisakins.github.io/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Astrophotography</title>
-      <link>/project/astrophotography/</link>
+      <link>http://hollisakins.github.io/project/astrophotography/</link>
       <pubDate>Thu, 21 Mar 2019 11:24:38 -0700</pubDate>
       
-      <guid>/project/astrophotography/</guid>
+      <guid>http://hollisakins.github.io/project/astrophotography/</guid>
       <description>Snapshots of the night sky and its many mysteries.</description>
     </item>
     

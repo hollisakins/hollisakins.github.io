@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>research on Hollis Akins</title>
-    <link>/tags/research/</link>
+    <link>http://hollisakins.github.io/tags/research/</link>
     <description>Recent content in research on Hollis Akins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hollis Akins</copyright>
     <lastBuildDate>Mon, 26 Aug 2019 09:52:56 -0700</lastBuildDate>
     
-	<atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hollisakins.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Simulated Dwarf Galaxies</title>
-      <link>/project/dwarf/</link>
+      <link>http://hollisakins.github.io/project/dwarf/</link>
       <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
       
-      <guid>/project/dwarf/</guid>
+      <guid>http://hollisakins.github.io/project/dwarf/</guid>
       <description>Summer research project studying the evolution and star-formation properties of dwarf satellite galaxies using ultra-high resolution cosmological simulations.</description>
     </item>
     
     <item>
       <title>Automated Data Reduction</title>
-      <link>/project/observatory/</link>
+      <link>http://hollisakins.github.io/project/observatory/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
-      <guid>/project/observatory/</guid>
+      <guid>http://hollisakins.github.io/project/observatory/</guid>
       <description>Summer research project at the Guilford College Cline Observatory, developing a tool for programatic photometry and variable star studies.</description>
     </item>
     
     <item>
       <title>Lucky Imaging</title>
-      <link>/project/lucky/</link>
+      <link>http://hollisakins.github.io/project/lucky/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
-      <guid>/project/lucky/</guid>
+      <guid>http://hollisakins.github.io/project/lucky/</guid>
       <description>Artistic planetary astrophotography using the lucky imaging technique.</description>
     </item>
     
     <item>
       <title>Urban Green Space</title>
-      <link>/project/green_space/</link>
+      <link>http://hollisakins.github.io/project/green_space/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
-      <guid>/project/green_space/</guid>
+      <guid>http://hollisakins.github.io/project/green_space/</guid>
       <description>GIS project exploring urban green space and environmental justice in Seattle, WA.</description>
     </item>
     
     <item>
       <title>Urban Sprawl</title>
-      <link>/project/urban_sprawl/</link>
+      <link>http://hollisakins.github.io/project/urban_sprawl/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
       
-      <guid>/project/urban_sprawl/</guid>
+      <guid>http://hollisakins.github.io/project/urban_sprawl/</guid>
       <description>GIS project exploring the extent of urban sprawl in Portland, OR.</description>
     </item>
     
