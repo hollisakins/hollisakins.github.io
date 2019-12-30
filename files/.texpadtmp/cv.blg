@@ -1,5 +1,5 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
-[0] Config.pm:307> INFO - Logfile is '/Users/hollis/Google Drive/Code/websites/githubio/public/files/.texpadtmp/cv.blg'
-[36] biber-darwin:315> INFO - === Sat Dec 14, 2019, 09:58:16
-[60] Biber.pm:371> INFO - Reading '/Users/hollis/Google Drive/Code/websites/githubio/public/files/.texpadtmp/cv.bcf'
-[134] Utils.pm:193> WARN - No data sources defined!
+[0] Config.pm:307> INFO - Logfile is '/Users/hollis/Google Drive/Code/websites/githubio/static/files/.texpadtmp/cv.blg'
+[31] biber-darwin:315> INFO - === Sat Dec 14, 2019, 09:52:35
+[47] Biber.pm:371> INFO - Reading '/Users/hollis/Google Drive/Code/websites/githubio/static/files/.texpadtmp/cv.bcf'
+[122] Utils.pm:193> WARN - No data sources defined!
