@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Donald A. Smith on Hollis Akins</title>
-    <link>/hollisakins.github.io/authors/donald-a.-smith/</link>
+    <link>https://hollisakins.github.io/authors/donald-a.-smith/</link>
     <description>Recent content in Donald A. Smith on Hollis Akins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hollis Akins</copyright>
-    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 -1000</lastBuildDate>
     
-	<atom:link href="/hollisakins.github.io/authors/donald-a.-smith/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hollisakins.github.io/authors/donald-a.-smith/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Automated data reduction at a small college observatory</title>
-      <link>/hollisakins.github.io/publication/pipeline/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 -0500</pubDate>
+      <link>https://hollisakins.github.io/publication/pipeline/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 -1000</pubDate>
       
-      <guid>/hollisakins.github.io/publication/pipeline/</guid>
+      <guid>https://hollisakins.github.io/publication/pipeline/</guid>
       <description>We report on our success in automating the data analysis processes for a small (half-meter class) reflecting telescope at Guilford College.</description>
     </item>
     
     <item>
       <title>Imaging planets from imaginary worlds</title>
-      <link>/hollisakins.github.io/publication/astro/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 -0400</pubDate>
+      <link>https://hollisakins.github.io/publication/astro/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 -1000</pubDate>
       
-      <guid>/hollisakins.github.io/publication/astro/</guid>
+      <guid>https://hollisakins.github.io/publication/astro/</guid>
       <description>For my final project for an observational astronomy class at Guilford College, I used a method called Lucky Imaging to photograph planets and incoorporate them into artistic photographs.</description>
     </item>
     
