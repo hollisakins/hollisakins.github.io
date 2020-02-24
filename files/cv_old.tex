@@ -1,0 +1,208 @@
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%   PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,letterpaper,sans, draft]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{red} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{multicol}
+\usepackage{footmisc} % enabling footnotes.
+\usepackage[english]{babel}
+\usepackage[backend=biber,style=apa]{biblatex}
+\DeclareLanguageMapping{english}{english-apa}
+
+
+\usepackage[scale=0.82]{geometry} % Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, un to adjust the width of the space allocated to your name
+\usepackage{xpatch}% http://ctan.org/pkg/xpatch
+\xpatchcmd{\cvitem}{#3}{\small #3}{}{}
+
+\renewcommand*{\cventry}[7][.25em]{%
+  \cvitem[#1]{{\small\selectfont#2}}{%
+    {\bfseries#3}%
+    \ifthenelse{\equal{#4}{}}{}{, {\slshape#4}}%
+    \ifthenelse{\equal{#5}{}}{}{, #5}%
+    \ifthenelse{\equal{#6}{}}{}{, #6}%
+    .\strut%
+    \ifx&#7&%
+    \else{\newline{}\begin{minipage}[t]{\linewidth}\small#7\end{minipage}}\fi}}
+   
+ 
+%----------------------------------------------------------------------------------------
+%   NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Hollis} % Your first name
+\familyname{Akins} % Your last name
+
+
+\title{Astrophysicist}
+%\mobile{}
+\email{hollis.akins@gmail.com}
+\homepage{hollisakins.github.io} 
+%\extrainfo{\githubsocialsymbol~\linkedinsocialsymbol~hollisakins}
+\address{Box 3039, 1115 8th Ave}{Grinnell, IA 50112}
+
+
+
+\begin{document}
+\makecvtitle 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{\textit{Education}}
+
+\cventry{Aug 2018 -- Present}{Grinnell College}{Dean's Scholar}{Grinnell, IA}{}{
+B.A. Physics, expected graduation May 2022\hspace{\fill}GPA: 4.00/4.00\\
+Coursework: modern physics, differential equations, archaeoastronomy, linear algebra, mechanics, general relativity, space physics, statistics
+}
+
+\cventry{Aug 2014 --\\May 2018}{The Early College at Guilford}{}{Greensboro, NC}{}{
+Public high-school dual-enrollment program with Guilford College\hspace{\fill}GPA: 3.96/4.00\\
+Coursework: introductory physics, computational physics, multivariable calculus, geographic information systems, experience design, observational astronomy, and studio art
+}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{\textit{Research}}
+
+
+\cventry{May 2019 -- Present}{Research Assistant}{Grinnell College Physics Department}{Grinnell, IA}{}{
+	\listitemsymbol Participated in a summer Mentored Advanced Project (MAP) led by Dr. Charlotte Christensen \\
+	\listitemsymbol Studied the evolution of dwarf satellite galaxies using high resolution cosmological simulations \\
+	\listitemsymbol Wrote Python code to manage and process simulation data in bulk
+	}
+
+
+
+\cventry{May 2018 --\\Aug 2018}{Research Assistant}{Guilford College Cline Observatory}{Greensboro, NC}{}{
+	\listitemsymbol Developed an automated data analysis pipeline and scripted observer system for the Cline Observatory\\
+	\listitemsymbol Monitored light-curves of several variable stars, and published these results
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{\textit{Mentoring}}
+
+\cventry{Dec 2018 -- Present}{Student Mentor}{Grinnell College Data Analysis and Social Inquiry Lab (DASIL)}{Grinnell, IA}{}{
+	\listitemsymbol Trained peers in data analysis software such as ArcGIS, Python, Stata, Tableau, and Excel\\
+	\listitemsymbol Prepared datasets and provided software support for faculty and staff as needed
+	}
+
+\cventry{Aug 2019 -- Dec 2019}{Teaching Assistant}{Grinnell College Social Studies Division}{Grinnell, IA}{}{
+	\listitemsymbol Mentored students in the Introduction to Geographic Information Systems course at Grinnell College \\
+	\listitemsymbol Held office hours, met individually with students, and conducted lectures when needed
+}
+
+\cventry{Aug 2017 --\\Dec 2017}{Teaching Assistant}{Guilford College Art Dept.}{Greensboro, NC}{}{
+	\listitemsymbol Mentored students in the introductory darkroom photography class at Guilford College\\
+	\listitemsymbol Conducted class demonstrations, provided feedback on work, and maintained the cleanliness and function of the photography lab facilities}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{\textit{Service \& Outreach}}
+
+\cventry{Oct 2018 -- Present}{Member}{Grinnell Astronomy Group}{}{}{
+\listitemsymbol Led meetings and group discussions on recent astronomy news and discoveries \\
+\listitemsymbol Organized and taught an amateur observational astronomy course through the Experiential College  
+}
+
+\cventry{Feb 2019 -- May 2019}{Science Editor}{Grinnell Undergraduate Research Journal}{Grinnell, IA}{}{
+\listitemsymbol Selected and provided feedback on science submissions for the 2019 journal publication \\
+\listitemsymbol Utilized Open Journal Systems to organize the peer-review process for student scientific papers} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{\textit{Awards \& Accomplishments}}
+
+\cvitem{Dec 2019}{Nominee, Barry S. Goldwater Scholarship \hfill Grinnell College}
+
+\cvitem{Aug 2018}{Recipient, Dean's Scholarship (\$25,000/year) \hfill Grinnell College }
+
+\cvitem{Aug 2018}{Recipient, National Merit Scholarship (\$2,000/year) \hfill Grinnell College }
+
+\cvitem{Mar 2018}{Honorable Mention, SIAM Mathworks Math Modeling Challenge \hfill The Early College at Guilford}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{\textit{Publications}}
+
+
+\cvitem{Dec 2019}{Smith, D. A. \& Akins, H. B. Automated data reduction at a small college observatory. \textit{Journal of the American Association of Variable Star Observers}, 47 (2), 248--253.}
+
+
+\cvitem{May 2018}{Akins, H. B. \& Smith, D. A. Imaging planets from imaginary worlds. \textit{The Physics Teacher}, 56 (7), 486--487. doi:10.1119/1.5055339}
+
+
+\section{\textit{Computer Skills}}
+
+\cvcomputer{Advanced:}{Python, \LaTeX, ArcGIS, Adobe CC Suite, Excel}{Intermediate:}{R, HTML/CSS, Vim, Linux, Tableau}
+\cvcomputer{Beginner:}{Stata, Minitab}{}{}
+\vfill
+
+
+
+\cvitem{}{\hspace*{\fill}\emph{* References available upon request}}
+
+
+%\section{\textit{References}}
+%
+%\begin{multicols}{2}
+%\cvitem{name}{Don Smith}
+%\cvitem{title}{Associate Professor, Guilford College}
+%\cvitem{mail}{email@guilford.edu}
+%\vfill\null
+%\columnbreak
+%\cvitem{name}{blah blah}
+%\cvitem{title}{Professor, somewhere}
+%\cvitem{mail}{email@institution.edu}
+%
+%\end{multicols}
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+%   COVER LETTER
+%----------------------------------------------------------------------------------------
+%\clearpage
+%
+%\recipient{Company Recruitment team}{Company, Inc.\\123 somestreet\\some city}
+%\date{January 01, 1984}
+%\opening{Dear Sir or Madam,}
+%\closing{Yours faithfully,}
+%\enclosure[Attached]{curriculum vit\ae{}}
+%\makelettertitle
+%
+%Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ullamcorper neque sit amet lectus facilisis sed luctus nisl iaculis. Vivamus at neque arcu, sed tempor quam. Curabitur pharetra tincidunt tincidunt. Morbi volutpat feugiat mauris, quis tempor neque vehicula volutpat. Duis tristique justo vel massa fermentum accumsan. Mauris ante elit, feugiat vestibulum tempor eget, eleifend ac ipsum. Donec scelerisque lobortis ipsum eu vestibulum. Pellentesque vel massa at felis accumsan rhoncus.
+%
+%Suspendisse commodo, massa eu congue tincidunt, elit mauris pellentesque orci, cursus tempor odio nisl euismod augue. Aliquam adipiscing nibh ut odio sodales et pulvinar tortor laoreet. Mauris a accumsan ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse vulputate sem vehicula ipsum varius nec tempus dui dapibus. Phasellus et est urna, ut auctor erat. Sed tincidunt odio id odio aliquam mattis. Donec sapien nulla, feugiat eget adipiscing sit amet, lacinia ut dolor. Phasellus tincidunt, leo a fringilla consectetur, felis diam aliquam urna, vitae aliquet lectus orci nec velit. Vivamus dapibus varius blandit.
+%
+%\makeletterclosing
+
+
+
+\end{document}

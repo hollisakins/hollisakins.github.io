@@ -13,15 +13,15 @@
 % used for structuring the document.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%----------------------------------------------------------------------------------------
+ 
+%--------- -------------------------------------------------------------------------------
 %   PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
-%----------------------------------------------------------------------------------------
+%------------------------------------------------------------------------- --------------
 
 \documentclass[11pt,letterpaper,sans, draft]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
 
 \moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
-\moderncvcolor{red} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\moderncvcolor{burgundy} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black' 
 
 \usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
 \usepackage{multicol}
@@ -46,6 +46,8 @@
     .\strut%
     \ifx&#7&%
     \else{\newline{}\begin{minipage}[t]{\linewidth}\small#7\end{minipage}}\fi}}
+    
+\newcommand{\presentation}[1]{~\listitemsymbol~\textit{#1} \\[0.3em]}
    
  
 %----------------------------------------------------------------------------------------
@@ -60,8 +62,9 @@
 %\mobile{}
 \email{hollis.akins@gmail.com}
 \homepage{hollisakins.github.io} 
+\extrainfo{Citizenship: USA}
 %\extrainfo{\githubsocialsymbol~\linkedinsocialsymbol~hollisakins}
-\address{Box 3039, 1115 8th Ave}{Grinnell, IA 50112}
+\address{Box 3039, 1115 8th Ave}{Grinnell, IA, 50112, USA}
 
 
 
@@ -90,7 +93,7 @@ Coursework: introductory physics, computational physics, multivariable calculus,
 
 
 \cventry{May 2019 -- Present}{Research Assistant}{Grinnell College Physics Department}{Grinnell, IA}{}{
-	\listitemsymbol Participated in a summer Mentored Advanced Project (MAP) led by Dr. Charlotte Christensen \\
+	\listitemsymbol Participated in an ongoing Mentored Advanced Project (MAP) led by Dr. Charlotte Christensen \\
 	\listitemsymbol Studied the evolution of dwarf satellite galaxies using high resolution cosmological simulations \\
 	\listitemsymbol Wrote Python code to manage and process simulation data in bulk
 	}
@@ -110,6 +113,14 @@ Coursework: introductory physics, computational physics, multivariable calculus,
 	\listitemsymbol Trained peers in data analysis software such as ArcGIS, Python, Stata, Tableau, and Excel\\
 	\listitemsymbol Prepared datasets and provided software support for faculty and staff as needed
 	}
+	
+	
+\cventry{Jan 2020 -- Present}{Lab Assistant}{Grinnell College Physics Department}{Grinnell, IA}{}{
+	\listitemsymbol Helped set up computers and software for the Spring 2020 Mechanics computational lab \\
+	\listitemsymbol Trained students in numerical integration in Python programming language}
+%\cventry{Jan 2020 -- Present}{Lab Assistant}{Grinnell College Physics Department}{Grinnell, IA}{}{
+%	\listitemsymbol Test
+%}	
 
 \cventry{Aug 2019 -- Dec 2019}{Teaching Assistant}{Grinnell College Social Studies Division}{Grinnell, IA}{}{
 	\listitemsymbol Mentored students in the Introduction to Geographic Information Systems course at Grinnell College \\
@@ -127,7 +138,7 @@ Coursework: introductory physics, computational physics, multivariable calculus,
 
 \cventry{Oct 2018 -- Present}{Member}{Grinnell Astronomy Group}{}{}{
 \listitemsymbol Led meetings and group discussions on recent astronomy news and discoveries \\
-\listitemsymbol Organized and taught an amateur observational astronomy course through the Experiential College  
+\listitemsymbol Organized and taught a (5-week, 12-student) amateur observational astronomy course through the Grinnell Experiential College program  
 }
 
 \cventry{Feb 2019 -- May 2019}{Science Editor}{Grinnell Undergraduate Research Journal}{Grinnell, IA}{}{
@@ -150,21 +161,36 @@ Coursework: introductory physics, computational physics, multivariable calculus,
 \section{\textit{Publications}}
 
 
-\cvitem{Dec 2019}{Smith, D. A. \& Akins, H. B. Automated data reduction at a small college observatory. \textit{Journal of the American Association of Variable Star Observers}, 47 (2), 248--253.}
+
+\cvitem{Dec 2019}{Smith, D. A. \& \textbf{Akins, H. B.} Automated data reduction at a small college observatory. \textit{Journal of the American Association of Variable Star Observers (JAAVSO)}, 47 (2), 248--253.}
 
 
-\cvitem{May 2018}{Akins, H. B. \& Smith, D. A. Imaging planets from imaginary worlds. \textit{The Physics Teacher}, 56 (7), 486--487. doi:10.1119/1.5055339}
+\cvitem{May 2018}{\textbf{Akins, H. B.} \& Smith, D. A. Imaging planets from imaginary worlds. \textit{The Physics Teacher}, 56 (7), 486--487. doi:10.1119/1.5055339}
+
+
+\section{\textit{Selected Presentations}}
+
+
+\presentation{Quenching timescales of dwarf satellites in cosmological simulations of Milky-Way-mass galaxies}
+%\cvitem{Apr 2020}{Poster: presented at the Space Telescope Science Institute Spring Symposium, ``The Local Group: Assembly and Evolution'' (Baltimore, MD)}
+\cvitem{Feb 2020}{Talk: presented at the Physics Department Seminar, Grinnell College (Grinnell, IA)}
+\cvitem{Jan 2020}{Poster: presented at the 235th Meeting of the American Astronomical Society (Honolulu, HI)}
 
 
 \section{\textit{Computer Skills}}
 
-\cvcomputer{Advanced:}{Python, \LaTeX, ArcGIS, Adobe CC Suite, Excel}{Intermediate:}{R, HTML/CSS, Vim, Linux, Tableau}
-\cvcomputer{Beginner:}{Stata, Minitab}{}{}
-\vfill
+%\cvcomputer{Advanced:}{Python, \LaTeX, ArcGIS, Adobe CC Suite, Excel}{Intermediate:}{R, HTML/CSS, Vim, Linux, Tableau}
+%\cvcomputer{Beginner:}{Stata, Minitab}{}{}
+
+\cvitem{Advanced:}{Python (astropy, pynbody, numpy, pandas, matplotlib), \LaTeX, ArcGIS, Adobe CC Suite, Excel}
+\cvitem{Intermediate:}{R, Git, HTML/CSS, Vim, Linux, Tableau, SAOImage}
+\cvitem{Beginner:}{Stata, Minitab}
 
 
 
-\cvitem{}{\hspace*{\fill}\emph{* References available upon request}}
+%\vfill
+
+%\cvitem{}{\hspace*{\fill}\emph{* References available upon request}}
 
 
 %\section{\textit{References}}
@@ -190,17 +216,47 @@ Coursework: introductory physics, computational physics, multivariable calculus,
 %----------------------------------------------------------------------------------------
 %\clearpage
 %
-%\recipient{Company Recruitment team}{Company, Inc.\\123 somestreet\\some city}
-%\date{January 01, 1984}
-%\opening{Dear Sir or Madam,}
-%\closing{Yours faithfully,}
-%\enclosure[Attached]{curriculum vit\ae{}}
+%\recipient{Cornelia Rickl}{Max-Planck-Institut für Astrophysik\\Postfach 1317\\D-85741 Garching}
+%
+%\date{December 27, 2019}
+%\opening{Dear Internship Selection Committee,}
+%\closing{Yours,}
+%%\enclosure[Attached]{curriculum vit\ae{}}
 %\makelettertitle
 %
-%Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ullamcorper neque sit amet lectus facilisis sed luctus nisl iaculis. Vivamus at neque arcu, sed tempor quam. Curabitur pharetra tincidunt tincidunt. Morbi volutpat feugiat mauris, quis tempor neque vehicula volutpat. Duis tristique justo vel massa fermentum accumsan. Mauris ante elit, feugiat vestibulum tempor eget, eleifend ac ipsum. Donec scelerisque lobortis ipsum eu vestibulum. Pellentesque vel massa at felis accumsan rhoncus.
+%\setlength{\parindent}{23pt}
+%For years, curiosity has been the primary force driving me to engage with the world and explore my passions. My first major outlet for this curiosity was photography: after receiving my first camera at the age of 13, I began to assess my surroundings from different perspectives and photographic angles. Even at that young age, photography became a tool for satisfying my curiosity, allowing me to learn about and make sense of the world around me. Little did I know at the time that photography—and the inquisitive way of looking at the world that came with it—would point me to the stars. 
 %
-%Suspendisse commodo, massa eu congue tincidunt, elit mauris pellentesque orci, cursus tempor odio nisl euismod augue. Aliquam adipiscing nibh ut odio sodales et pulvinar tortor laoreet. Mauris a accumsan ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse vulputate sem vehicula ipsum varius nec tempus dui dapibus. Phasellus et est urna, ut auctor erat. Sed tincidunt odio id odio aliquam mattis. Donec sapien nulla, feugiat eget adipiscing sit amet, lacinia ut dolor. Phasellus tincidunt, leo a fringilla consectetur, felis diam aliquam urna, vitae aliquet lectus orci nec velit. Vivamus dapibus varius blandit.
 %
+%In the spring of 2018, I signed up for an observational astronomy course at Guilford College in Greensboro, NC, jumping at the opportunity to photograph the night sky and unify my previously independent interests in physics and the arts. 
+%In the course, I worked actively on observational labs, both photographing and making measurements of astronomical objects. 
+%The work I did that semester inspired me to write and submit a proposal for summer research at the Guilford College observatory, where I worked with Dr. Don Smith to develop software to measure light-curves of variable stars. 
+%This work, now published in the Journal of the American Association of Variable Star Observers, introduced me to the astronomical research process as a tool with which I could thoroughly evaluate and quantify the universe around me, answering fundamental questions and finding new ones along the way.
+%
+% 
+%Since then, the unique educational experience of Grinnell College has afforded me opportunities to develop research skills through a wide variety of problems and explore my interests through an analytical lens. 
+%Whether I’m analyzing data on urban social issues or political opinion, exploring and writing about architectural history, or studying general relativity, I am finding new ways to understand and answer questions about the world and the universe. 
+%As part of this, in the summer of 2019, I worked with Dr. Charlotte Christensen at Grinnell College to explore the drivers of quenching—or the suppression of star formation—in dwarf satellite galaxies using simulations. 
+%Specifically, I wrote Python code to process the simulation data in bulk, allowing us to compare our simulated galaxies to observations and eventually to measure the quenching efficiency at different masses. 
+%I have been working with my advisor and collaborators at different institutions to prepare a manuscript detailing our results and discussing the broader implications of this work. 
+%This project gave me a glimpse as to what a career in astrophysics research can involve: continuous questioning, collaboration, and investigation.
+%
+%
+%As such, I intend to pursue astrophysics research as a career path. 
+%I plan to continue incorporating research into my undergraduate education, and in the coming years, I hope to apply to graduate programs that would provide opportunities in data-intensive and computational astrophysics. 
+%This subfield lies at the intersection of my interests in data science, data visualization, and astrophysics, and with the increasing ease of collection of astronomical data, these methods will prove more and more important in future discoveries. 
+%Topics of particular interest to me include galaxy formation and evolution, dark matter, and dark energy. 
+%Beyond research, I intend to incorporate teaching into my career. My work mentoring students in data analysis techniques and teaching a short course in observational astronomy has been rewarding, and continuing this would allow me to inspire in others a similar passion for astrophysics. 
+%
+%
+%A research internship at the Max-Planck Institut für AStrophsik would provide me with valuable resources and opportunities to achieve these goals. 
+%While I would be interested in working on a broad range of possible projects, I am particularly fascinated by computational astrophysics, and hope to build my skills in these areas. 
+%Working directly with faculty on research projects will build my computational skills and prepare me for future research of my own. 
+%Additionally, collaboration with other interns at an international research institute would expose me to diverse perspectives on astrophysics, expanding my curiosity and understanding of the field. 
+%A research internship with the Max-Plank Institut für Astrophysik would allow me to develop my research career and explore my curiosities through in-depth, engaging study in astrophysics. 
+%
+%\setlength{\parindent}{0pt}
+%\vspace{20pt}
 %\makeletterclosing
 
 
