@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links | Hollis Akins</title>
+    <link>/hollisakins.github.io/links/</link>
+      <atom:link href="/hollisakins.github.io/links/index.xml" rel="self" type="application/rss+xml" />
+    <description>Links</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hollis Akins</copyright><lastBuildDate>Mon, 26 Aug 2019 09:52:56 -0700</lastBuildDate>
+    <image>
+      <url>/hollisakins.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Links</title>
+      <link>/hollisakins.github.io/links/</link>
+    </image>
+    
+    <item>
+      <title>Research</title>
+      <link>/hollisakins.github.io/links/research/</link>
+      <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
+      <guid>/hollisakins.github.io/links/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>/hollisakins.github.io/links/photography/</link>
+      <pubDate>Thu, 21 Mar 2019 11:24:38 -0700</pubDate>
+      <guid>/hollisakins.github.io/links/photography/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

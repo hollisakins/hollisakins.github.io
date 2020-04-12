@@ -1,33 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Hollis Akins</title>
-    <link>https://hollisakins.github.io/publication/</link>
-    <description>Recent content in Publications on Hollis Akins</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Hollis Akins</copyright>
-    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 -1000</lastBuildDate>
-    
-	<atom:link href="https://hollisakins.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>All Publications | Hollis Akins</title>
+    <link>/hollisakins.github.io/publication/</link>
+      <atom:link href="/hollisakins.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>All Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hollis Akins</copyright><lastBuildDate>Sun, 15 Dec 2019 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>/hollisakins.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>All Publications</title>
+      <link>/hollisakins.github.io/publication/</link>
+    </image>
     
     <item>
       <title>Automated data reduction at a small college observatory</title>
-      <link>https://hollisakins.github.io/publication/pipeline/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 -1000</pubDate>
-      
-      <guid>https://hollisakins.github.io/publication/pipeline/</guid>
-      <description>We report on our success in automating the data analysis processes for a small (half-meter class) reflecting telescope at Guilford College.</description>
+      <link>/hollisakins.github.io/publication/pipeline/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 -0500</pubDate>
+      <guid>/hollisakins.github.io/publication/pipeline/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Imaging planets from imaginary worlds</title>
-      <link>https://hollisakins.github.io/publication/astro/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 -1000</pubDate>
-      
-      <guid>https://hollisakins.github.io/publication/astro/</guid>
-      <description>For my final project for an observational astronomy class at Guilford College, I used a method called Lucky Imaging to photograph planets and incoorporate them into artistic photographs.</description>
+      <link>/hollisakins.github.io/publication/astro/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 -0400</pubDate>
+      <guid>/hollisakins.github.io/publication/astro/</guid>
+      <description></description>
     </item>
     
   </channel>

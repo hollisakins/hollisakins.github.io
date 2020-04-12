@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Folder With Items on Hollis Akins</title>
+    <link>/hollisakins.github.io/new-folder-with-items/</link>
+    <description>Recent content in New Folder With Items on Hollis Akins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Hollis Akins</copyright>
+    <lastBuildDate>Mon, 26 Aug 2019 09:52:56 -0700</lastBuildDate>
+    
+	<atom:link href="/hollisakins.github.io/new-folder-with-items/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simulated Dwarf Galaxies</title>
+      <link>/hollisakins.github.io/new-folder-with-items/dwarf/</link>
+      <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
+      
+      <guid>/hollisakins.github.io/new-folder-with-items/dwarf/</guid>
+      <description>Summer research project studying the evolution and star-formation properties of dwarf satellite galaxies using ultra-high resolution cosmological simulations.</description>
+    </item>
+    
+    <item>
+      <title>Automated Data Reduction</title>
+      <link>/hollisakins.github.io/new-folder-with-items/observatory/</link>
+      <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
+      
+      <guid>/hollisakins.github.io/new-folder-with-items/observatory/</guid>
+      <description>Summer research project at the Guilford College Cline Observatory, developing a tool for programatic photometry and variable star studies.</description>
+    </item>
+    
+    <item>
+      <title>Lucky Imaging</title>
+      <link>/hollisakins.github.io/new-folder-with-items/lucky/</link>
+      <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
+      
+      <guid>/hollisakins.github.io/new-folder-with-items/lucky/</guid>
+      <description>Artistic planetary astrophotography using the lucky imaging technique.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GIS on Hollis Akins</title>
-    <link>https://hollisakins.github.io/tags/gis/</link>
-    <description>Recent content in GIS on Hollis Akins</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Hollis Akins</copyright>
-    <lastBuildDate>Thu, 21 Mar 2019 09:52:56 -0700</lastBuildDate>
-    
-	<atom:link href="https://hollisakins.github.io/tags/gis/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>GIS | Hollis Akins</title>
+    <link>/hollisakins.github.io/tags/gis/</link>
+      <atom:link href="/hollisakins.github.io/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    <description>GIS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Hollis Akins</copyright><lastBuildDate>Thu, 21 Mar 2019 09:52:56 -0700</lastBuildDate>
+    <image>
+      <url>/hollisakins.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>GIS</title>
+      <link>/hollisakins.github.io/tags/gis/</link>
+    </image>
     
     <item>
       <title>Urban Green Space</title>
-      <link>https://hollisakins.github.io/project/green_space/</link>
+      <link>/hollisakins.github.io/project/green_space/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
-      
-      <guid>https://hollisakins.github.io/project/green_space/</guid>
-      <description>GIS project exploring urban green space and environmental justice in Seattle, WA.</description>
+      <guid>/hollisakins.github.io/project/green_space/</guid>
+      <description>&lt;p&gt;This study was completed for the Applied GIS course at Grinnell College and explored the relationship between environmental amenities, in the form of urban green space, and household income in Seattle, WA. I developed urban green space GIS layers for mean NDVI, percentage canopy cover, tree density, and percentage park at the census block group level. Using standard and geospatial regression procedures in GeoDa, I found a significant correlation between these explanatory variables and median income (R-squared = 0.43). This study could be extended to predict additional demographic variables or analyze other urban areas.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Urban Sprawl</title>
-      <link>https://hollisakins.github.io/project/urban_sprawl/</link>
+      <link>/hollisakins.github.io/project/urban_sprawl/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
-      
-      <guid>https://hollisakins.github.io/project/urban_sprawl/</guid>
-      <description>GIS project exploring the extent of urban sprawl in Portland, OR.</description>
+      <guid>/hollisakins.github.io/project/urban_sprawl/</guid>
+      <description>&lt;p&gt;While not a full-fledged research project, I have used Geographic Information Systems (GIS) software to study the impacts of urban sprawl on developing cities. This was a final project for a GIS class at Guilford College, completed over three weeks in the fall of 2018. The final paper can be found here.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

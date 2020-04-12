@@ -1,34 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Hollis Akins</title>
-    <link>https://hollisakins.github.io/authors/</link>
-    <description>Recent content in Authors on Hollis Akins</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Hollis Akins</copyright>
-    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 -1000</lastBuildDate>
-    
-	<atom:link href="https://hollisakins.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Donald A. Smith</title>
-      <link>https://hollisakins.github.io/authors/donald-a.-smith/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 -1000</pubDate>
-      
-      <guid>https://hollisakins.github.io/authors/donald-a.-smith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hollis B. Akins</title>
-      <link>https://hollisakins.github.io/authors/hollis-b.-akins/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 -1000</pubDate>
-      
-      <guid>https://hollisakins.github.io/authors/hollis-b.-akins/</guid>
-      <description></description>
-    </item>
+    <title>Authors | Hollis Akins</title>
+    <link>/hollisakins.github.io/authors/</link>
+      <atom:link href="/hollisakins.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hollis Akins</copyright><lastBuildDate>Sun, 15 Dec 2019 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>/hollisakins.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/hollisakins.github.io/authors/</link>
+    </image>
     
   </channel>
 </rss>

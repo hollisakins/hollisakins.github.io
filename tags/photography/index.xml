@@ -1,42 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>photography on Hollis Akins</title>
-    <link>https://hollisakins.github.io/tags/photography/</link>
-    <description>Recent content in photography on Hollis Akins</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Hollis Akins</copyright>
-    <lastBuildDate>Thu, 21 Mar 2019 11:24:38 -0700</lastBuildDate>
-    
-	<atom:link href="https://hollisakins.github.io/tags/photography/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Astrophotography</title>
-      <link>https://hollisakins.github.io/project/astrophotography/</link>
-      <pubDate>Thu, 21 Mar 2019 11:24:38 -0700</pubDate>
-      
-      <guid>https://hollisakins.github.io/project/astrophotography/</guid>
-      <description>Snapshots of the night sky and its many mysteries.</description>
-    </item>
-    
-    <item>
-      <title>Perspectives</title>
-      <link>https://hollisakins.github.io/project/perspectives/</link>
-      <pubDate>Thu, 21 Mar 2019 11:24:38 -0700</pubDate>
-      
-      <guid>https://hollisakins.github.io/project/perspectives/</guid>
-      <description>A series of surreal photographs created with a unique analog darkroom process.</description>
-    </item>
+    <title>photography | Hollis Akins</title>
+    <link>/hollisakins.github.io/tags/photography/</link>
+      <atom:link href="/hollisakins.github.io/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <description>photography</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Hollis Akins</copyright><lastBuildDate>Thu, 21 Mar 2019 09:52:56 -0700</lastBuildDate>
+    <image>
+      <url>/hollisakins.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>photography</title>
+      <link>/hollisakins.github.io/tags/photography/</link>
+    </image>
     
     <item>
       <title>Lucky Imaging</title>
-      <link>https://hollisakins.github.io/project/lucky/</link>
+      <link>/hollisakins.github.io/project/lucky/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
-      
-      <guid>https://hollisakins.github.io/project/lucky/</guid>
-      <description>Artistic planetary astrophotography using the lucky imaging technique.</description>
+      <guid>/hollisakins.github.io/project/lucky/</guid>
+      <description>&lt;p&gt;For my final project for an observational astronomy class at Guilford College, I used a method called Lucky Imaging to photograph planets and incorporate them into artistic photographs. The project was exhibited as a &lt;a href=&#34;poster.pdf&#34; target=&#34;_blank&#34;&gt;poster presentation&lt;/a&gt; at the Guilford Undergraduate Symposium, and turned into an 
+&lt;a href=&#34;/hollisakins.github.io/~akinshol/publication/astro&#34;&gt;article&lt;/a&gt; which was published in the October 2018 edition of The Physics Teacher.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
