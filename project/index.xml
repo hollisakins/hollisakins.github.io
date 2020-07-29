@@ -13,6 +13,21 @@
     </image>
     
     <item>
+      <title>Color-Color Selection of Quiescent Galaxies</title>
+      <link>/hollisakins.github.io/project/uvj/</link>
+      <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
+      <guid>/hollisakins.github.io/project/uvj/</guid>
+      <description>&lt;p&gt;Star-formation in massive galaxies in the early universe was largely obscured by dust.
+This has the effect of reddening galaxy colors, making actively star-forming and passive, quiescent galaxies difficult to distinguish.
+In this project, I use the 
+&lt;a href=&#34;https://http://simba.roe.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIMBA&lt;/a&gt; cosmological simulations and 
+&lt;a href=&#34;https://powderday.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;POWDERDAY&lt;/a&gt; dust radiative transfer code to study a common method for classifying high-redshift galaxies: color-color selection on the UVJ diagram.&lt;/p&gt;
+&lt;p&gt;This work was conducted at the University of Florida as part of the REU program in computational and data-intensive astrophysics.&lt;/p&gt;
+&lt;p&gt;Future presentations &amp;amp; publications on this topic will be listed here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Star Formation in Dwarf Satellite Galaxies</title>
       <link>/hollisakins.github.io/project/dwarf/</link>
       <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
