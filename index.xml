@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hollis Akins</title>
-    <link>/hollisakins.github.io/</link>
-      <atom:link href="/hollisakins.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>hollisakins.github.io/</link>
+      <atom:link href="hollisakins.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Hollis Akins</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hollis Akins</copyright><lastBuildDate>Sun, 09 Aug 2020 00:00:00 -0400</lastBuildDate>
     <image>
       <url>/hollisakins.github.io/images/icon_hub7ca0b5404c6d576559b2bd22c64b0e5_1558_512x512_fill_lanczos_center_2.png</url>
       <title>Hollis Akins</title>
-      <link>/hollisakins.github.io/</link>
+      <link>hollisakins.github.io/</link>
     </image>
     
     <item>
       <title>Quenching timescales of dwarf satellites around Milky Way-mass hosts</title>
-      <link>/hollisakins.github.io/publication/timescales/</link>
+      <link>hollisakins.github.io/publication/timescales/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 -0400</pubDate>
-      <guid>/hollisakins.github.io/publication/timescales/</guid>
+      <guid>hollisakins.github.io/publication/timescales/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated data reduction at a small college observatory</title>
-      <link>/hollisakins.github.io/publication/pipeline/</link>
+      <link>hollisakins.github.io/publication/pipeline/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 -0500</pubDate>
-      <guid>/hollisakins.github.io/publication/pipeline/</guid>
+      <guid>hollisakins.github.io/publication/pipeline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effects of Nativism on Americans&#39; Tolerance of Diversity</title>
-      <link>/hollisakins.github.io/post/pol295/</link>
+      <link>hollisakins.github.io/post/pol295/</link>
       <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/hollisakins.github.io/post/pol295/</guid>
+      <guid>hollisakins.github.io/post/pol295/</guid>
       <description>
 
 
@@ -66,7 +66,7 @@ Some traits are based on our shared cultural and moral values, such as “to bel
 Other traits are based on religion, language, and heritage—this is the &lt;em&gt;ethnic&lt;/em&gt; conception of American Identity.
 From these questions, we can assess rates of nativism—i.e. the prevalence of an ethnic, “&lt;a href=&#34;https://www.cnn.com/2017/08/12/us/charlottesville-unite-the-right-rally/index.html&#34; target=&#34;_blank&#34;&gt;blood &amp;amp; soil&lt;/a&gt;” conception of American identity.
 Figure 1 shows the responses to this battery broken down by self-identified political party.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_identity-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_identity-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This analysis additionally utilizes questions on immigration, refugee resettlment, hate, and discrimination.
 The full questionnaire, with summarized results, is available &lt;a href=&#34;https://www.grinnell.edu/sites/default/files/docs/2018-12/Grinnell%20College%20National%20Poll_Nov18.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
@@ -85,7 +85,7 @@ Notably, the mean nativism index for Republicans is 0.52, and for Democrats, 0.3
 &lt;p&gt;Nativism in politics today is deeply connected to refugee resettlement, a practice the Trump administration has &lt;a href=&#34;https://www.vox.com/policy-and-politics/2019/10/1/20886919/america-trump-refugee-cap-global-leader&#34; target=&#34;_blank&#34;&gt;drastically reduced&lt;/a&gt; since 2016.
 Figure 2 shows the mean of the nativism index, broken down by responses to the question “Currently, do you think there are too many, a lot but not too many, or not too many refugees allowed into the U.S.?”
 Nativism appears strongly connected to how accepting one is of refugees: a rigid, identity-based view of what it means to be an American makes one less inclined to accept migrants, even those in dire need: &lt;a href=&#34;https://immigrationforum.org/article/fact-sheet-u-s-refugee-resettlement/&#34; target=&#34;_blank&#34;&gt;recent refugees to the U.S.&lt;/a&gt; are predominantly from the Democratic Republic of the Congo, Burma, Ukraine, and Bhutan.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_refugee_amt-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_refugee_amt-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;While the connection between nativism and tolerance of refugees is direct, nativist attitudes also manifest themselves in perceptions of undocumented immigrants.
 Figure 3 shows nativism by responses to the question “Compared to the U.S. population overall, do you think the rate of violent crime committed by [undocumented/illegal] immigrants in the United States is higher, lower, or about the same?”
 This question was a survey experiment—for half of respondents, the question was worded as “undocumented” immigrants. For the other half, “illegal” immigrants.
@@ -96,7 +96,7 @@ The lack of this difference may suggest that nativism is not inflamed by the wor
 While the connection between anti-immigrant sentiment and nativism is well-studied; however, the specific focus of this question on crime informs our understanding of nativism and one’s tolerance of diversity.
 Approximately 30% of respondents say that the rate of violent crime is higher among undocumented immigrants, but &lt;a href=&#34;https://www.cato.org/blog/illegal-immigrants-crime-assessing-evidence&#34; target=&#34;_blank&#34;&gt;studies have found&lt;/a&gt; little-to-no evidence supporting this belief.
 Rather, these negative opinions are rooted in the nativist perception of immigrants as profoundly &lt;em&gt;un-American&lt;/em&gt;: if you adopt the ethnic conception of American identity, rather than the civic, then those who do not share your “blood &amp;amp; soil” would certainly not share your values and morals.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_immig_both-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_immig_both-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Clearly, one’s understanding of American identity regulates their views on other issues in national politics, particularly those relating to the influx of immigrants and refugees.
 But how, if at all, does nativism influence Americans’ acceptance of diversity with regards to &lt;em&gt;other&lt;/em&gt; social and political issues, beyond immigration?&lt;/p&gt;
 &lt;p&gt;Figure 4 shows nativism broken down by responses to the question “Please tell me if you think [White Men], living here in the United States, experience a lot of discrimination, a little discrimination, or virtually no discrimination.”
@@ -104,7 +104,7 @@ Nativism appears far more prevalent among people responding that white men face 
 With increasing opportunities for immigrants and minority groups, nativists see &lt;a href=&#34;https://www.nytimes.com/2018/10/10/opinion/trump-white-male-victimization.html&#34; target=&#34;_blank&#34;&gt;white men as the victims&lt;/a&gt; of a changing America with shifting priorities.
 They see discrimination, the restriction of opportunity, as a zero-sum game, much in the way they see American identity.
 The resulting feeling of personal vulnerability and victimhood bleeds into other social issues.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_disc_whitemen-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_disc_whitemen-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Importantly, nativist perceptions of discrimination are not limited to white male victimhood, but rather build into feelings of general racial resentment.
 Nativism is additionally associated with &lt;em&gt;decreased&lt;/em&gt; belief that African Americans and Muslims face discrimination in the U.S.
 Figure 5 below shows the relative significance of various variables in predicting the respondent’s degree of percieved discrimination against white men (blue circles), African Americans (orange squares), and Muslims (green diamonds).
@@ -115,19 +115,19 @@ While most control variables are not significant, the nativism index is highly s
 It paints immigration and diversity—an influx of non-Americans—as something that restricts opportunity for white men.
 And it indicates that nativism, a particular understanding of American identity, can influence one’s perception of other racial and religious groups.
 &lt;!-- really need to think critically about how I want to write this section --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/coefplots-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/coefplots-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Racial resentment, as indicated through these discrimination questions, appears deeply connected to nativism.
 However, religious discrimination and religious hate seems additionally tied to nativism, as &lt;a href=&#34;https://thinkprogress.org/the-2016-election-is-making-islamophobia-the-worst-it-has-ever-been-f7ec15ef7230/&#34; target=&#34;_blank&#34;&gt;Islamophobia is as pervasive as ever in American society&lt;/a&gt;.
 Figure 6 shows nativism broken down by responses to the question “I’ll mention some entities you might hate, and for each I’d like you to tell me if you do—just answer yes or no” for the entity “A religion.”
 Nativism is more prevalent among those who say that they do hate a religion.
 This indicates not only religious &lt;em&gt;resentment&lt;/em&gt;, but specifically religious &lt;em&gt;hate&lt;/em&gt;, an extreme feeling uniquely able to influence political beliefs.
 If nativism is able to instill or accentuate feelings of hate against religious groups, the politics of nativists will be decidedly skewed against these groups.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_hate_religion-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_hate_religion-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Religious or racial &lt;em&gt;hate&lt;/em&gt;, more so than &lt;em&gt;resentment&lt;/em&gt;, can manifest itself in more potent and dangerous ways—think &lt;a href=&#34;https://www.rollingstone.com/politics/politics-features/what-happened-in-charlottesville-709764/&#34; target=&#34;_blank&#34;&gt;Charlottesville&lt;/a&gt;.
 The Grinnell College National Poll asks a question on hate: “In general, do you feel it is okay or not okay to express feelings of hate in a public manner, including through social media?”
 Figure 7 shows the nativism index broken down by responses to this question.
 Importantly, nativism does not appear more or less prevalent in either responses to this question, indicating that Americans overall agree that hate is not something to express publicly.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_hate_okay-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_hate_okay-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Though nativism is not associated with the &lt;em&gt;expression&lt;/em&gt; of hate, it is associated with the &lt;em&gt;harboring&lt;/em&gt; of hate for a religious group and with resentment towards racial groups.
 For nativists, hate is pent-up.
 However, while individual expression of hate is taboo, hateful views masked in political arguments are not.&lt;/p&gt;
@@ -140,7 +140,7 @@ Nativists inherently see immigrants and refugees as &lt;em&gt;un-American&lt;/em
 This highlights a key component of present-day American nativism: a mentality of victimization, in which nativists see themselves as the victims in a changing America, one more accepting of immigrants and diversity and placing less value on whiteness, Christianity, and heritage. As nativists are inclined towards xenophobia, they see themselves as discriminated against by immigrants and minorities.&lt;/p&gt;
 &lt;p&gt;Deeper still, we see that this racial resentment and victim mentality goes to the extreme, manifesting itself through pent-up feelings of hate.
 We see in our analysis that nativism is very prevalent among people who indicated that they hate “a religion”—likely Islam. These feelings of hatred are an extreme case of racial/religious resentment, and uniquely able to influence political views; however, we also find that nativism is not connected to the willingness to &lt;em&gt;express&lt;/em&gt; hate. Nativist’s feelings of racial/religious resentment and hatred, rooted in their fundamental understanding of American identity, are kept inside.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_vote_2020-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;hollisakins.github.io/hollisakins.github.io/post/pol295_files/figure-html/plot_vote_2020-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This is where we draw a clear connection to American politics today.
 In 2016, Donald Trump launched a presidential campaign firmly rooted in nativist sentiment, appealing to these feelings of resentment and victimization more directly than any recent, major political figure.
 And in fact, this was crucial to his victory.
@@ -161,103 +161,91 @@ Nativism is the &lt;em&gt;fulcrum&lt;/em&gt; of a wider ideology, and one that a
     
     <item>
       <title>Color-Color Selection of Quiescent Galaxies</title>
-      <link>/hollisakins.github.io/project/uvj/</link>
+      <link>hollisakins.github.io/project/uvj/</link>
       <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
-      <guid>/hollisakins.github.io/project/uvj/</guid>
+      <guid>hollisakins.github.io/project/uvj/</guid>
       <description>&lt;p&gt;Star-formation in massive galaxies in the early universe was largely obscured by dust.
 This has the effect of reddening galaxy colors, making actively star-forming and passive, quiescent galaxies difficult to distinguish.
 In this project, I use the 
 &lt;a href=&#34;https://http://simba.roe.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIMBA&lt;/a&gt; cosmological simulations and 
 &lt;a href=&#34;https://powderday.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;POWDERDAY&lt;/a&gt; dust radiative transfer code to study a common method for classifying high-redshift galaxies: color-color selection on the UVJ diagram.&lt;/p&gt;
-&lt;p&gt;This work was conducted at the University of Florida as part of the REU program in computational and data-intensive astrophysics.&lt;/p&gt;
-&lt;p&gt;Future presentations &amp;amp; publications on this topic will be listed here.&lt;/p&gt;
+&lt;p&gt;This work was conducted at the University of Florida as part of the REU program in computational and data-intensive astrophysics. I presented on this project at the 237th meeting of the American Astronomical Society, and my interavtive iPoster can be found 
+&lt;a href=&#34;http://aas237-aas.ipostersessions.com/Default.aspx?s=5F-73-DC-50-18-13-2A-06-D1-EE-50-B4-5D-BC-D1-30&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>/hollisakins.github.io/links/research/</link>
+      <link>hollisakins.github.io/links/research/</link>
       <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
-      <guid>/hollisakins.github.io/links/research/</guid>
+      <guid>hollisakins.github.io/links/research/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Star Formation in Dwarf Satellite Galaxies</title>
-      <link>/hollisakins.github.io/project/dwarf/</link>
-      <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
-      <guid>/hollisakins.github.io/project/dwarf/</guid>
-      <description>&lt;p&gt;In this project, I explored the suppression of star-formation (a phenomenon referred to as &amp;ldquo;quenching&amp;rdquo;) in dwarf satellite galaxies using ultra-high resolution cosmoligical simulations.
-This project was made possible by Grinnell College Professor Charlotte Christensen through the Mentored Advanced Project (MAP) program.
-The linked poster was presented at the 235th meeting of the American Astronomical Society, and provides a summary of the methodology and major findings so far.&lt;/p&gt;
-&lt;p&gt;Future presentations &amp;amp; publications on this topic will be listed here.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Photography</title>
-      <link>/hollisakins.github.io/links/photography/</link>
+      <link>hollisakins.github.io/links/photography/</link>
       <pubDate>Thu, 21 Mar 2019 11:24:38 -0700</pubDate>
-      <guid>/hollisakins.github.io/links/photography/</guid>
+      <guid>hollisakins.github.io/links/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Data Reduction</title>
-      <link>/hollisakins.github.io/project/observatory/</link>
+      <link>hollisakins.github.io/project/observatory/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
-      <guid>/hollisakins.github.io/project/observatory/</guid>
+      <guid>hollisakins.github.io/project/observatory/</guid>
       <description>&lt;p&gt;In the summer of 2018, I worked as a Research Assistant at the Guilford College Cline Observatory, studying variable stars and constructing a system for automatic data analysis and collection. The project was intended primarily to facilitate future student research using the tools I developed. The data analysis pipeline is detailed in the paper below.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lucky Imaging</title>
-      <link>/hollisakins.github.io/project/lucky/</link>
+      <link>hollisakins.github.io/project/lucky/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
-      <guid>/hollisakins.github.io/project/lucky/</guid>
+      <guid>hollisakins.github.io/project/lucky/</guid>
       <description>&lt;p&gt;For my final project for an observational astronomy class at Guilford College, I used a method called Lucky Imaging to photograph planets and incorporate them into artistic photographs. The project was exhibited as a &lt;a href=&#34;poster.pdf&#34; target=&#34;_blank&#34;&gt;poster presentation&lt;/a&gt; at the Guilford Undergraduate Symposium, and turned into an 
-&lt;a href=&#34;/hollisakins.github.io/~akinshol/publication/astro&#34;&gt;article&lt;/a&gt; which was published in the October 2018 edition of The Physics Teacher.&lt;/p&gt;
+&lt;a href=&#34;hollisakins.github.io/~akinshol/publication/astro&#34;&gt;article&lt;/a&gt; which was published in the October 2018 edition of The Physics Teacher.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Imaging planets from imaginary worlds</title>
-      <link>/hollisakins.github.io/publication/astro/</link>
+      <link>hollisakins.github.io/publication/astro/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 -0400</pubDate>
-      <guid>/hollisakins.github.io/publication/astro/</guid>
+      <guid>hollisakins.github.io/publication/astro/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/hollisakins.github.io/astrophotography/</link>
+      <link>hollisakins.github.io/astrophotography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/hollisakins.github.io/astrophotography/</guid>
+      <guid>hollisakins.github.io/astrophotography/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/hollisakins.github.io/perspectives/</link>
+      <link>hollisakins.github.io/perspectives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/hollisakins.github.io/perspectives/</guid>
+      <guid>hollisakins.github.io/perspectives/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/hollisakins.github.io/photography/</link>
+      <link>hollisakins.github.io/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/hollisakins.github.io/photography/</guid>
+      <guid>hollisakins.github.io/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/hollisakins.github.io/research/</link>
+      <link>hollisakins.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/hollisakins.github.io/research/</guid>
+      <guid>hollisakins.github.io/research/</guid>
       <description></description>
     </item>
     

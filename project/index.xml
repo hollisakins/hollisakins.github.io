@@ -2,59 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Hollis Akins</title>
-    <link>/hollisakins.github.io/project/</link>
-      <atom:link href="/hollisakins.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>hollisakins.github.io/project/</link>
+      <atom:link href="hollisakins.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Hollis Akins</copyright><lastBuildDate>Mon, 26 Aug 2019 09:52:56 -0700</lastBuildDate>
     <image>
       <url>/hollisakins.github.io/images/icon_hub7ca0b5404c6d576559b2bd22c64b0e5_1558_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/hollisakins.github.io/project/</link>
+      <link>hollisakins.github.io/project/</link>
     </image>
     
     <item>
       <title>Color-Color Selection of Quiescent Galaxies</title>
-      <link>/hollisakins.github.io/project/uvj/</link>
+      <link>hollisakins.github.io/project/uvj/</link>
       <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
-      <guid>/hollisakins.github.io/project/uvj/</guid>
+      <guid>hollisakins.github.io/project/uvj/</guid>
       <description>&lt;p&gt;Star-formation in massive galaxies in the early universe was largely obscured by dust.
 This has the effect of reddening galaxy colors, making actively star-forming and passive, quiescent galaxies difficult to distinguish.
 In this project, I use the 
 &lt;a href=&#34;https://http://simba.roe.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIMBA&lt;/a&gt; cosmological simulations and 
 &lt;a href=&#34;https://powderday.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;POWDERDAY&lt;/a&gt; dust radiative transfer code to study a common method for classifying high-redshift galaxies: color-color selection on the UVJ diagram.&lt;/p&gt;
-&lt;p&gt;This work was conducted at the University of Florida as part of the REU program in computational and data-intensive astrophysics.&lt;/p&gt;
-&lt;p&gt;Future presentations &amp;amp; publications on this topic will be listed here.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Star Formation in Dwarf Satellite Galaxies</title>
-      <link>/hollisakins.github.io/project/dwarf/</link>
-      <pubDate>Mon, 26 Aug 2019 09:52:56 -0700</pubDate>
-      <guid>/hollisakins.github.io/project/dwarf/</guid>
-      <description>&lt;p&gt;In this project, I explored the suppression of star-formation (a phenomenon referred to as &amp;ldquo;quenching&amp;rdquo;) in dwarf satellite galaxies using ultra-high resolution cosmoligical simulations.
-This project was made possible by Grinnell College Professor Charlotte Christensen through the Mentored Advanced Project (MAP) program.
-The linked poster was presented at the 235th meeting of the American Astronomical Society, and provides a summary of the methodology and major findings so far.&lt;/p&gt;
-&lt;p&gt;Future presentations &amp;amp; publications on this topic will be listed here.&lt;/p&gt;
+&lt;p&gt;This work was conducted at the University of Florida as part of the REU program in computational and data-intensive astrophysics. I presented on this project at the 237th meeting of the American Astronomical Society, and my interavtive iPoster can be found 
+&lt;a href=&#34;http://aas237-aas.ipostersessions.com/Default.aspx?s=5F-73-DC-50-18-13-2A-06-D1-EE-50-B4-5D-BC-D1-30&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Automated Data Reduction</title>
-      <link>/hollisakins.github.io/project/observatory/</link>
+      <link>hollisakins.github.io/project/observatory/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
-      <guid>/hollisakins.github.io/project/observatory/</guid>
+      <guid>hollisakins.github.io/project/observatory/</guid>
       <description>&lt;p&gt;In the summer of 2018, I worked as a Research Assistant at the Guilford College Cline Observatory, studying variable stars and constructing a system for automatic data analysis and collection. The project was intended primarily to facilitate future student research using the tools I developed. The data analysis pipeline is detailed in the paper below.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lucky Imaging</title>
-      <link>/hollisakins.github.io/project/lucky/</link>
+      <link>hollisakins.github.io/project/lucky/</link>
       <pubDate>Thu, 21 Mar 2019 09:52:56 -0700</pubDate>
-      <guid>/hollisakins.github.io/project/lucky/</guid>
+      <guid>hollisakins.github.io/project/lucky/</guid>
       <description>&lt;p&gt;For my final project for an observational astronomy class at Guilford College, I used a method called Lucky Imaging to photograph planets and incorporate them into artistic photographs. The project was exhibited as a &lt;a href=&#34;poster.pdf&#34; target=&#34;_blank&#34;&gt;poster presentation&lt;/a&gt; at the Guilford Undergraduate Symposium, and turned into an 
-&lt;a href=&#34;/hollisakins.github.io/~akinshol/publication/astro&#34;&gt;article&lt;/a&gt; which was published in the October 2018 edition of The Physics Teacher.&lt;/p&gt;
+&lt;a href=&#34;hollisakins.github.io/~akinshol/publication/astro&#34;&gt;article&lt;/a&gt; which was published in the October 2018 edition of The Physics Teacher.&lt;/p&gt;
 </description>
     </item>
     
