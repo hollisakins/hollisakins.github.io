@@ -1,16 +1,16 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 2
-display_categories: [work, fun]
+title: resources
+permalink: /resources/
+description:  Work in progress. This page will host collections of useful software, illustrations/animations, and teaching tools that I create/gather. Come back later!  
+nav: true
+nav_order: 6
+display_categories: [data]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
+<!-- pages/resources.md -->
+<div class="resources">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
