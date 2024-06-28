@@ -1,11 +1,11 @@
 ---
 layout: page
-title: resources
+title: Resources
 permalink: /resources/
-description:  Work in progress. This page will host collections of useful software, illustrations/animations, and teaching tools that I create/gather. Come back later!  
+description: "[work in progress] This page will provide data access from my publications as well as host collections of useful software, illustrations/animations, and teaching tools that I create/gather."
 nav: true
 nav_order: 6
-display_categories: [data]
+display_categories: [Data] #,Software
 horizontal: false
 ---
 
@@ -33,6 +33,7 @@ horizontal: false
     {%- endfor %}
   </div>
   {%- endif -%}
+  <br>
   {% endfor %}
 
 {%- else -%}
