@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>project 1 | Hollis B. Akins</title>
+    <title>COSMOS-Web LRDs | Hollis B. Akins</title>
     <meta name="author" content="Hollis B. Akins">
-    <meta name="description" content="">
+    <meta name="description" content="Data and figures from Akins et al. (2024) paper on LRDs in COSMOS-Web.">
 
 
     <!-- Bootstrap & MDB -->
@@ -67,19 +67,19 @@
 
               <!-- About -->
               <li class="nav-item ">
-                <a class="nav-link" href="/">about</a>
+                <a class="nav-link" href="/">About</a>
               </li>
               
 
               <!-- Other pages -->
               <li class="nav-item ">
-                <a class="nav-link" href="/publications/">publications</a>
+                <a class="nav-link" href="/publications/">Publications</a>
               </li>
               <li class="nav-item ">
-                <a class="nav-link" href="/cv/">cv</a>
+                <a class="nav-link" href="/assets/pdf/Akins_CV.pdf">CV</a>
               </li>
               <li class="nav-item ">
-                <a class="nav-link" href="/resources/">resources</a>
+                <a class="nav-link" href="/resources/">Resources</a>
               </li>
 
               <!-- Toogle theme mode -->
@@ -109,12 +109,48 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">project 1</h1>
-            <p class="post-description"></p>
+            <h1 class="post-title">COSMOS-Web LRDs</h1>
+            <p class="post-description">Data and figures from Akins et al. (2024) paper on LRDs in COSMOS-Web.</p>
           </header>
 
           <article>
-            <p>TBD</p>
+            <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/LRD_SEDs-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/LRD_SEDs-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/LRD_SEDs-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/LRD_SEDs.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+<div class="caption">
+    Three example SED plots from Figure 4 of my paper.
+</div>
+
+<p>All files hosted on my <a href="https://github.com/hollisakins/akins24_cw" target="_blank" rel="external nofollow noopener">GitHub</a>.</p>
+
+<p><a href="https://github.com/hollisakins/akins24_cw/tree/main/seds" target="_blank" rel="external nofollow noopener"><code class="language-plaintext highlighter-rouge">seds/*_sed.pdf</code></a>: This directory includes SED plots (as in Figures 4, and 5 in the paper) for all 434 objects in the sample. Note that for objects with F1800W coverage, we omit the ACS/F814W cutouts, and PRIMER-NIRCam cutouts are not shown, but the photometry is used.</p>
+
+<p><a href="https://github.com/hollisakins/akins24_cw/blob/main/COSMOS-Web_LRDs.dat" target="_blank" rel="external nofollow noopener"><code class="language-plaintext highlighter-rouge">COSMOS-Web_LRDs.dat</code></a>: This is an extended and machine-readable form of Table 1 in the paper, including coordinates, photometry (in all available bands), and derived physical properties (from QSO and galaxy fits) for all 434 objects in the sample.</p>
+
+<p><a href="https://github.com/hollisakins/akins24_cw/blob/main/COSMOS-Web_LRDs_bol_LF.dat" target="_blank" rel="external nofollow noopener"><code class="language-plaintext highlighter-rouge">COSMOS-Web_LRDs_bol_LF.dat</code></a>: This file provides the tabulated values for the LRD bolometric luminosity function from Figure 8. In the paper we provide the bolometric LF in 0.5 dex bins, here we additionally include the LF marginalized over the bin size, as described in the text.</p>
+
+<p><a href="https://github.com/hollisakins/akins24_cw/blob/main/COSMOS-Web_LRDs_SMF.dat" target="_blank" rel="external nofollow noopener"><code class="language-plaintext highlighter-rouge">COSMOS-Web_LRDs_SMF.dat</code></a>: This file provides the tabulated values for the LRD contribution to the stellar mass function from Figure 11. Format is identical to <code class="language-plaintext highlighter-rouge">COSMOS-Web_LRDs_bol_LF.dat</code>.</p>
+
+<p><a href="https://github.com/hollisakins/akins24_cw/blob/main/COSMOS-Web_LRDs_stacked_SED.dat" target="_blank" rel="external nofollow noopener"><code class="language-plaintext highlighter-rouge">COSMOS-Web_LRDs_stacked_SED.dat</code></a>: This file provides the median-stacked “maximal” SED model presented in Figure 13, from the X-ray to the radio. Wavelengths are in microns, and we provide flux density in µJy and monochromatic luminosity in solar luminosities.</p>
+
+<p>Happy to provide additional data, please reach out <a href="mailto:hollis.akins@gmail.com">over email</a>. 
+If you use these data or intend to study these objects further, please cite <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240610341A/abstract" rel="external nofollow noopener" target="_blank">the COSMOS-Web LRD paper</a>:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Akins, H. B., Casey, C. M., Lambrides, E. et al. 2024, arXiv: 2406.10341
+</code></pre></div></div>
+
 
           </article>
 
@@ -125,7 +161,7 @@
     <!-- Footer -->    <footer class="sticky-bottom mt-5">
       <div class="container">
         © Copyright 2024 Hollis B. Akins. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme.
-Last updated: May 13, 2024.
+Last updated: June 28, 2024.
       </div>
     </footer>
 
